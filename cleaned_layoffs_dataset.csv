@@ -1,0 +1,19 @@
+company,location,industry,total_laid_off,row_num
+Amazon,"New York, United States",Technology,0,1
+Amazon,"New York, United States",Technology,100,1
+Amazon,"New York, United States",Technology,50,1
+Amazon,"San Francisco, United States",Technology,0,1
+Amazon,"San Francisco, United States",Technology,100,1
+Amazon,"San Francisco, United States",Technology,50,1
+Amazon,"United States",Technology,0,1
+Amazon,"United States",Technology,100,1
+Amazon,"United States",Technology,50,1
+Google,"New York, United States",Technology,0,1
+Google,"New York, United States",Technology,100,1
+Google,"New York, United States",Technology,50,1
+Google,"San Francisco, United States",Technology,0,1
+Google,"San Francisco, United States",Technology,100,1
+Google,"San Francisco, United States",Technology,50,1
+Google,"United States",Technology,0,1
+Google,"United States",Technology,100,1
+Google,"United States",Technology,50,1
