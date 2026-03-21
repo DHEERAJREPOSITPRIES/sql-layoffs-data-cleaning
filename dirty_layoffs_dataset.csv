@@ -1,0 +1,3021 @@
+company,location,industry,total_laid_off,date
+amazon,New York,tech,,2023-01-01
+amazon,SF,,one hundred,01/01/2023
+AMA zon,San Francisco,Technology,,
+GOOGLE,NY,Technology,one hundred,invalid
+ AMAZON,NY,Tech,100,01/01/2023
+google,,Tech,-50,2023-01-01
+GOOGLE,,T3ch,100,invalid
+AMA zon,New York,tech,-50,2023-01-01
+Google,New York,tech,,Jan 1 2023
+GOO gle,NY,tech,,Jan 1 2023
+AMA zon,new york,,100,
+GOO gle,SF,Technology,one hundred,01/01/2023
+GOO gle,San Francisco,Tech,,invalid
+Amazon,SF,,one hundred,
+amazon,San Francisco,tech,,Jan 1 2023
+Google,New York,,-50,Jan 1 2023
+Amazon,New York,tech,100,
+google,,tech,,Jan 1 2023
+ AMAZON,,,-50,
+GOOGLE,SF,Tech,,Jan 1 2023
+Google,San Francisco,Tech,one hundred,01/01/2023
+AMA zon,NY,,one hundred,invalid
+Google,SF,,one hundred,
+AMA zon,New York,tech,100,01/01/2023
+ AMAZON,San Francisco,tech,one hundred,
+ AMAZON,New York,,one hundred,invalid
+GOO gle,new york,T3ch,100,invalid
+amazon,NY,T3ch,100,01/01/2023
+google,San Francisco,Technology,100,invalid
+google,New York,,,
+GOOGLE,San Francisco,Tech,100,invalid
+AMA zon,new york,T3ch,-50,2023-01-01
+GOOGLE,new york,,100,2023-01-01
+AMA zon,NY,,one hundred,2023-01-01
+GOOGLE,New York,,,2023-01-01
+google,new york,,-50,Jan 1 2023
+Amazon,SF,T3ch,100,invalid
+AMA zon,new york,,-50,2023-01-01
+GOO gle,SF,T3ch,one hundred,Jan 1 2023
+google,new york,,-50,01/01/2023
+Amazon,new york,,one hundred,2023-01-01
+Amazon,new york,T3ch,100,01/01/2023
+GOOGLE,New York,,,2023-01-01
+GOO gle,New York,Technology,100,Jan 1 2023
+amazon,New York,T3ch,,
+amazon,NY,,,01/01/2023
+GOOGLE,NY,T3ch,-50,01/01/2023
+amazon,San Francisco,tech,100,
+ AMAZON,New York,,100,invalid
+google,new york,tech,100,Jan 1 2023
+GOOGLE,San Francisco,Technology,100,
+Google,,Tech,,2023-01-01
+Google,San Francisco,,one hundred,2023-01-01
+Google,New York,tech,100,2023-01-01
+Google,New York,Technology,,Jan 1 2023
+AMA zon,,,-50,2023-01-01
+google,NY,tech,,2023-01-01
+Amazon,NY,Tech,-50,Jan 1 2023
+ AMAZON,NY,,,invalid
+Amazon,new york,,100,
+GOO gle,New York,,100,Jan 1 2023
+GOO gle,San Francisco,T3ch,-50,2023-01-01
+Google,,Tech,100,2023-01-01
+google,NY,tech,,01/01/2023
+Amazon,SF,T3ch,,01/01/2023
+GOO gle,San Francisco,,-50,01/01/2023
+ AMAZON,San Francisco,,100,
+GOO gle,San Francisco,Tech,one hundred,01/01/2023
+Amazon,NY,T3ch,100,
+GOOGLE,new york,tech,100,Jan 1 2023
+Amazon,New York,tech,100,Jan 1 2023
+GOO gle,,Technology,one hundred,01/01/2023
+GOO gle,new york,Technology,one hundred,invalid
+amazon,,T3ch,one hundred,Jan 1 2023
+Amazon,,Technology,one hundred,01/01/2023
+ AMAZON,new york,Tech,one hundred,
+Google,new york,tech,,
+GOO gle,new york,T3ch,100,
+GOO gle,SF,T3ch,,invalid
+Google,new york,,100,01/01/2023
+GOO gle,NY,T3ch,one hundred,
+AMA zon,,Technology,one hundred,
+Amazon,NY,,-50,invalid
+Amazon,NY,tech,100,invalid
+ AMAZON,new york,Tech,,01/01/2023
+Amazon,SF,,,invalid
+AMA zon,,Tech,,
+AMA zon,San Francisco,Tech,100,Jan 1 2023
+Google,San Francisco,tech,100,invalid
+google,new york,Tech,100,2023-01-01
+GOO gle,San Francisco,Tech,-50,
+google,NY,,100,Jan 1 2023
+AMA zon,NY,,,01/01/2023
+google,new york,T3ch,-50,invalid
+Amazon,NY,,100,
+Google,San Francisco,Tech,-50,01/01/2023
+google,,Tech,one hundred,01/01/2023
+GOOGLE,San Francisco,Technology,-50,invalid
+ AMAZON,new york,Technology,100,
+ AMAZON,,Tech,100,2023-01-01
+Google,NY,T3ch,-50,2023-01-01
+Amazon,San Francisco,,100,Jan 1 2023
+Amazon,New York,,-50,Jan 1 2023
+GOOGLE,San Francisco,,-50,01/01/2023
+GOO gle,SF,Tech,,01/01/2023
+google,SF,Tech,one hundred,invalid
+Google,New York,T3ch,,
+AMA zon,new york,Tech,100,2023-01-01
+GOO gle,NY,Tech,,invalid
+GOO gle,new york,tech,,invalid
+GOOGLE,New York,,100,Jan 1 2023
+GOO gle,SF,Technology,100,01/01/2023
+Amazon,NY,Technology,one hundred,2023-01-01
+AMA zon,,,-50,invalid
+AMA zon,San Francisco,Technology,one hundred,2023-01-01
+GOO gle,new york,Technology,-50,01/01/2023
+AMA zon,New York,,,01/01/2023
+GOO gle,NY,T3ch,one hundred,invalid
+ AMAZON,new york,Tech,100,invalid
+ AMAZON,New York,Tech,one hundred,
+Google,San Francisco,,100,01/01/2023
+GOOGLE,NY,T3ch,,01/01/2023
+GOO gle,new york,T3ch,,
+Amazon,New York,,,01/01/2023
+GOO gle,new york,Tech,one hundred,01/01/2023
+amazon,NY,Tech,-50,invalid
+Amazon,,Technology,100,01/01/2023
+amazon,SF,,one hundred,
+ AMAZON,SF,,-50,2023-01-01
+GOO gle,,Technology,100,Jan 1 2023
+GOOGLE,new york,,100,
+Google,new york,,100,2023-01-01
+GOOGLE,New York,,one hundred,Jan 1 2023
+AMA zon,San Francisco,Tech,100,Jan 1 2023
+Amazon,NY,T3ch,100,01/01/2023
+Google,,,-50,Jan 1 2023
+AMA zon,new york,,,Jan 1 2023
+amazon,New York,Technology,one hundred,invalid
+google,,tech,100,2023-01-01
+google,new york,,one hundred,Jan 1 2023
+GOO gle,NY,T3ch,,01/01/2023
+Google,new york,,-50,invalid
+GOO gle,new york,T3ch,,2023-01-01
+google,New York,Tech,-50,Jan 1 2023
+amazon,San Francisco,Technology,one hundred,01/01/2023
+GOO gle,San Francisco,Tech,,01/01/2023
+AMA zon,New York,,-50,invalid
+Google,San Francisco,T3ch,100,2023-01-01
+google,,,-50,2023-01-01
+GOO gle,San Francisco,Tech,-50,
+Google,,Technology,-50,invalid
+amazon,San Francisco,,100,
+amazon,SF,Technology,100,01/01/2023
+Google,,,-50,2023-01-01
+GOOGLE,new york,Tech,one hundred,Jan 1 2023
+amazon,NY,,-50,
+Amazon,New York,Technology,-50,2023-01-01
+Amazon,,,100,invalid
+ AMAZON,SF,tech,,2023-01-01
+GOO gle,NY,,100,01/01/2023
+amazon,NY,tech,-50,Jan 1 2023
+ AMAZON,NY,T3ch,one hundred,01/01/2023
+GOO gle,,Technology,-50,invalid
+GOO gle,SF,Technology,100,01/01/2023
+amazon,NY,tech,one hundred,
+GOO gle,new york,,one hundred,01/01/2023
+AMA zon,San Francisco,T3ch,100,Jan 1 2023
+GOO gle,San Francisco,tech,100,invalid
+Google,new york,,100,
+GOOGLE,new york,,-50,01/01/2023
+amazon,SF,Tech,,Jan 1 2023
+AMA zon,new york,Technology,100,2023-01-01
+AMA zon,new york,Technology,-50,
+amazon,SF,Tech,one hundred,01/01/2023
+GOOGLE,SF,,,invalid
+Google,NY,T3ch,,invalid
+AMA zon,SF,,one hundred,01/01/2023
+ AMAZON,NY,Tech,-50,2023-01-01
+GOO gle,SF,Technology,100,invalid
+amazon,new york,,100,invalid
+ AMAZON,,tech,-50,Jan 1 2023
+google,SF,T3ch,,invalid
+Amazon,new york,T3ch,-50,01/01/2023
+google,San Francisco,,100,invalid
+AMA zon,San Francisco,,,invalid
+Google,New York,,100,01/01/2023
+AMA zon,NY,T3ch,100,01/01/2023
+AMA zon,NY,T3ch,100,2023-01-01
+google,new york,tech,100,2023-01-01
+GOO gle,,Technology,,Jan 1 2023
+Amazon,San Francisco,Technology,100,2023-01-01
+AMA zon,,,100,Jan 1 2023
+google,NY,T3ch,-50,Jan 1 2023
+Amazon,new york,,100,
+google,,tech,100,
+GOOGLE,San Francisco,,100,2023-01-01
+Amazon,NY,tech,-50,2023-01-01
+Amazon,San Francisco,,100,invalid
+Amazon,new york,,100,invalid
+Amazon,NY,,-50,invalid
+GOOGLE,SF,tech,,01/01/2023
+ AMAZON,San Francisco,Technology,100,01/01/2023
+ AMAZON,NY,T3ch,,Jan 1 2023
+google,San Francisco,T3ch,100,Jan 1 2023
+amazon,NY,,100,2023-01-01
+amazon,new york,T3ch,-50,01/01/2023
+Google,new york,,,01/01/2023
+Google,NY,,100,
+GOOGLE,NY,tech,one hundred,2023-01-01
+AMA zon,NY,Technology,,
+AMA zon,San Francisco,,100,01/01/2023
+amazon,SF,tech,one hundred,2023-01-01
+ AMAZON,,Tech,100,Jan 1 2023
+amazon,,Technology,100,01/01/2023
+GOO gle,NY,Tech,100,invalid
+Amazon,San Francisco,tech,-50,01/01/2023
+GOOGLE,San Francisco,Tech,100,2023-01-01
+AMA zon,San Francisco,T3ch,-50,2023-01-01
+GOOGLE,,T3ch,100,2023-01-01
+GOOGLE,San Francisco,T3ch,-50,
+ AMAZON,,Technology,100,2023-01-01
+GOO gle,NY,,100,2023-01-01
+ AMAZON,SF,Technology,100,2023-01-01
+AMA zon,NY,Tech,,Jan 1 2023
+ AMAZON,,T3ch,-50,invalid
+GOO gle,New York,,one hundred,
+ AMAZON,San Francisco,,,Jan 1 2023
+Google,,T3ch,one hundred,2023-01-01
+Amazon,new york,,100,2023-01-01
+amazon,San Francisco,T3ch,100,invalid
+google,new york,T3ch,-50,01/01/2023
+GOO gle,SF,T3ch,100,2023-01-01
+amazon,SF,,-50,01/01/2023
+ AMAZON,new york,T3ch,-50,invalid
+GOOGLE,SF,tech,100,01/01/2023
+amazon,San Francisco,,one hundred,
+AMA zon,New York,,100,Jan 1 2023
+Amazon,San Francisco,Technology,one hundred,Jan 1 2023
+Google,New York,tech,-50,01/01/2023
+ AMAZON,SF,T3ch,,invalid
+GOO gle,,,-50,2023-01-01
+Amazon,New York,Technology,,01/01/2023
+ AMAZON,NY,,100,
+amazon,new york,,-50,2023-01-01
+amazon,NY,T3ch,100,invalid
+Amazon,NY,T3ch,,01/01/2023
+google,new york,,-50,2023-01-01
+amazon,new york,tech,one hundred,2023-01-01
+Google,SF,T3ch,one hundred,invalid
+Google,SF,tech,one hundred,
+Google,new york,,100,Jan 1 2023
+amazon,NY,Tech,one hundred,01/01/2023
+GOO gle,NY,,,invalid
+GOOGLE,New York,T3ch,100,2023-01-01
+ AMAZON,,,-50,01/01/2023
+GOOGLE,new york,,one hundred,
+GOO gle,New York,,one hundred,Jan 1 2023
+Amazon,San Francisco,tech,100,01/01/2023
+GOO gle,,Tech,100,2023-01-01
+GOO gle,,T3ch,,
+amazon,new york,Tech,one hundred,
+ AMAZON,SF,T3ch,100,Jan 1 2023
+Amazon,new york,Technology,100,01/01/2023
+Amazon,NY,Technology,,
+Amazon,San Francisco,T3ch,one hundred,
+GOO gle,NY,,one hundred,
+GOOGLE,,Technology,-50,invalid
+amazon,,tech,one hundred,2023-01-01
+Amazon,NY,Technology,one hundred,2023-01-01
+AMA zon,,tech,100,01/01/2023
+GOO gle,new york,Tech,100,Jan 1 2023
+google,new york,tech,100,Jan 1 2023
+GOOGLE,NY,Technology,100,2023-01-01
+GOO gle,San Francisco,tech,100,Jan 1 2023
+google,,Tech,-50,
+AMA zon,SF,T3ch,100,
+AMA zon,SF,,,01/01/2023
+Google,new york,T3ch,one hundred,01/01/2023
+google,SF,Technology,,
+Amazon,SF,Technology,,01/01/2023
+Amazon,New York,tech,100,
+Google,New York,Tech,100,
+Amazon,,T3ch,100,2023-01-01
+GOOGLE,NY,tech,100,
+GOOGLE,New York,T3ch,,invalid
+AMA zon,NY,Technology,100,Jan 1 2023
+GOOGLE,New York,,-50,invalid
+GOOGLE,SF,Tech,-50,
+AMA zon,new york,Tech,one hundred,invalid
+amazon,,,one hundred,2023-01-01
+AMA zon,New York,,,Jan 1 2023
+amazon,San Francisco,T3ch,,Jan 1 2023
+GOOGLE,San Francisco,,one hundred,01/01/2023
+Amazon,NY,,100,2023-01-01
+ AMAZON,,Technology,,invalid
+Amazon,SF,,one hundred,01/01/2023
+AMA zon,SF,,,2023-01-01
+Amazon,NY,Technology,-50,01/01/2023
+google,new york,T3ch,,2023-01-01
+ AMAZON,,tech,,Jan 1 2023
+GOO gle,San Francisco,,100,2023-01-01
+amazon,new york,Technology,one hundred,
+GOO gle,,tech,-50,invalid
+GOO gle,NY,,one hundred,invalid
+GOO gle,San Francisco,T3ch,-50,Jan 1 2023
+GOO gle,,Tech,100,2023-01-01
+ AMAZON,NY,,100,Jan 1 2023
+ AMAZON,SF,tech,one hundred,invalid
+AMA zon,new york,,,invalid
+Google,NY,tech,-50,2023-01-01
+amazon,NY,tech,100,invalid
+Amazon,San Francisco,Tech,100,invalid
+ AMAZON,,,100,
+amazon,SF,,100,01/01/2023
+Amazon,new york,,100,01/01/2023
+amazon,New York,T3ch,-50,
+AMA zon,,Technology,100,01/01/2023
+AMA zon,,,100,Jan 1 2023
+Google,San Francisco,,100,01/01/2023
+Amazon,New York,T3ch,,Jan 1 2023
+Amazon,new york,tech,100,invalid
+google,new york,tech,one hundred,Jan 1 2023
+GOOGLE,San Francisco,tech,one hundred,01/01/2023
+google,new york,Technology,100,Jan 1 2023
+amazon,NY,T3ch,100,2023-01-01
+Google,,Tech,-50,2023-01-01
+GOOGLE,new york,Technology,one hundred,invalid
+GOOGLE,NY,T3ch,,invalid
+Amazon,new york,T3ch,100,invalid
+Amazon,San Francisco,Technology,,2023-01-01
+Amazon,New York,,100,01/01/2023
+Google,SF,tech,-50,2023-01-01
+GOO gle,New York,Technology,one hundred,2023-01-01
+AMA zon,San Francisco,tech,,2023-01-01
+amazon,San Francisco,Tech,one hundred,invalid
+GOO gle,San Francisco,,one hundred,invalid
+GOOGLE,New York,Tech,100,2023-01-01
+AMA zon,SF,T3ch,one hundred,Jan 1 2023
+ AMAZON,New York,Technology,,invalid
+Amazon,,,-50,invalid
+AMA zon,San Francisco,Technology,-50,
+AMA zon,NY,Technology,100,invalid
+GOOGLE,,,100,Jan 1 2023
+GOO gle,NY,Technology,one hundred,invalid
+GOO gle,,Tech,-50,
+AMA zon,NY,T3ch,one hundred,Jan 1 2023
+Amazon,SF,tech,,
+amazon,New York,Tech,,2023-01-01
+Google,,T3ch,one hundred,invalid
+Google,,Technology,-50,invalid
+google,New York,Tech,100,
+amazon,SF,Tech,,Jan 1 2023
+AMA zon,NY,T3ch,-50,invalid
+Amazon,,Technology,,Jan 1 2023
+amazon,New York,Technology,100,
+Amazon,new york,T3ch,100,01/01/2023
+amazon,NY,tech,-50,invalid
+ AMAZON,new york,Technology,-50,
+GOO gle,San Francisco,Technology,-50,Jan 1 2023
+GOOGLE,New York,Tech,100,01/01/2023
+Amazon,New York,Technology,one hundred,invalid
+Google,New York,Technology,-50,01/01/2023
+Amazon,NY,,100,
+GOO gle,NY,T3ch,100,01/01/2023
+Amazon,new york,,-50,invalid
+google,,T3ch,100,invalid
+AMA zon,,Technology,100,2023-01-01
+amazon,SF,Tech,100,01/01/2023
+google,NY,T3ch,100,
+google,SF,Tech,100,01/01/2023
+Amazon,,tech,-50,2023-01-01
+GOOGLE,SF,,100,
+AMA zon,new york,tech,-50,2023-01-01
+GOO gle,New York,Tech,,invalid
+amazon,New York,tech,,2023-01-01
+amazon,new york,,100,
+google,New York,,-50,invalid
+AMA zon,new york,,100,01/01/2023
+ AMAZON,New York,T3ch,100,2023-01-01
+amazon,,,100,
+GOO gle,,tech,100,Jan 1 2023
+ AMAZON,,tech,-50,2023-01-01
+Amazon,San Francisco,,one hundred,2023-01-01
+Google,,tech,one hundred,invalid
+ AMAZON,San Francisco,,100,2023-01-01
+google,,Technology,,01/01/2023
+amazon,NY,,-50,invalid
+amazon,,,100,2023-01-01
+AMA zon,NY,tech,-50,invalid
+GOO gle,New York,,,invalid
+AMA zon,new york,,,
+amazon,NY,T3ch,-50,2023-01-01
+amazon,New York,,-50,
+GOOGLE,New York,Technology,-50,01/01/2023
+Google,new york,tech,one hundred,Jan 1 2023
+GOOGLE,SF,Technology,,
+AMA zon,New York,Technology,100,Jan 1 2023
+GOOGLE,New York,Tech,100,invalid
+AMA zon,NY,tech,one hundred,2023-01-01
+ AMAZON,,,one hundred,01/01/2023
+GOO gle,,tech,100,
+Google,New York,,-50,2023-01-01
+Google,,Technology,100,2023-01-01
+Google,SF,,,01/01/2023
+amazon,new york,tech,one hundred,Jan 1 2023
+Google,SF,T3ch,100,01/01/2023
+AMA zon,NY,Tech,,01/01/2023
+GOO gle,new york,tech,-50,
+ AMAZON,SF,,-50,Jan 1 2023
+GOOGLE,San Francisco,Tech,100,
+GOOGLE,NY,T3ch,-50,invalid
+GOO gle,San Francisco,Technology,-50,2023-01-01
+Amazon,New York,Tech,100,01/01/2023
+Amazon,,,-50,
+google,NY,Tech,one hundred,01/01/2023
+Amazon,NY,tech,-50,2023-01-01
+google,San Francisco,Technology,100,invalid
+ AMAZON,new york,tech,100,01/01/2023
+GOO gle,new york,Technology,100,
+ AMAZON,New York,Tech,-50,Jan 1 2023
+google,San Francisco,,one hundred,invalid
+amazon,San Francisco,Tech,100,Jan 1 2023
+AMA zon,NY,,-50,invalid
+Google,,Technology,100,Jan 1 2023
+ AMAZON,,,-50,01/01/2023
+google,San Francisco,Tech,100,
+Google,new york,Tech,100,invalid
+Amazon,New York,,100,01/01/2023
+amazon,,Tech,100,01/01/2023
+Amazon,NY,,one hundred,Jan 1 2023
+Amazon,SF,Technology,100,Jan 1 2023
+ AMAZON,SF,tech,one hundred,invalid
+AMA zon,New York,T3ch,one hundred,Jan 1 2023
+google,new york,tech,-50,Jan 1 2023
+GOOGLE,New York,,100,2023-01-01
+amazon,New York,tech,one hundred,
+amazon,New York,tech,one hundred,Jan 1 2023
+Amazon,San Francisco,T3ch,one hundred,
+google,NY,T3ch,,invalid
+Amazon,,,-50,
+ AMAZON,San Francisco,Tech,100,Jan 1 2023
+Amazon,New York,Tech,one hundred,01/01/2023
+Google,new york,Technology,-50,01/01/2023
+ AMAZON,new york,T3ch,,
+Google,new york,,,Jan 1 2023
+GOOGLE,SF,tech,100,invalid
+Google,San Francisco,tech,100,Jan 1 2023
+google,new york,T3ch,,
+amazon,NY,,one hundred,
+Google,NY,,-50,Jan 1 2023
+AMA zon,new york,Tech,100,
+GOOGLE,NY,Technology,100,Jan 1 2023
+Amazon,New York,,100,
+amazon,,Technology,,01/01/2023
+Google,NY,,100,
+google,new york,Technology,one hundred,Jan 1 2023
+GOOGLE,NY,T3ch,100,01/01/2023
+AMA zon,San Francisco,,,
+google,new york,T3ch,,
+GOO gle,new york,Tech,100,01/01/2023
+AMA zon,NY,Tech,,invalid
+Amazon,San Francisco,tech,,Jan 1 2023
+GOOGLE,,,100,
+amazon,San Francisco,tech,,01/01/2023
+GOOGLE,New York,Technology,100,invalid
+GOO gle,San Francisco,Technology,-50,invalid
+google,,,one hundred,
+AMA zon,SF,T3ch,one hundred,invalid
+Google,new york,Technology,,Jan 1 2023
+google,New York,,,01/01/2023
+GOOGLE,New York,,100,Jan 1 2023
+Google,SF,Technology,,invalid
+google,San Francisco,tech,one hundred,invalid
+Google,San Francisco,tech,,2023-01-01
+google,New York,Tech,one hundred,invalid
+AMA zon,NY,Technology,100,01/01/2023
+Amazon,new york,,100,invalid
+GOO gle,NY,,100,01/01/2023
+Google,SF,,100,Jan 1 2023
+ AMAZON,San Francisco,Technology,one hundred,invalid
+GOOGLE,SF,Tech,-50,
+GOO gle,NY,Technology,100,
+Google,NY,Tech,100,2023-01-01
+amazon,new york,Technology,-50,invalid
+Google,San Francisco,tech,100,01/01/2023
+GOO gle,SF,Technology,,01/01/2023
+ AMAZON,,tech,one hundred,invalid
+AMA zon,new york,,one hundred,01/01/2023
+google,New York,,100,2023-01-01
+GOOGLE,San Francisco,Tech,,2023-01-01
+GOOGLE,new york,,100,Jan 1 2023
+GOO gle,NY,Tech,-50,01/01/2023
+GOOGLE,NY,tech,,invalid
+GOOGLE,New York,,,invalid
+Amazon,San Francisco,,100,invalid
+google,,,100,
+GOOGLE,new york,,100,01/01/2023
+ AMAZON,San Francisco,Technology,one hundred,2023-01-01
+AMA zon,SF,tech,100,
+ AMAZON,NY,,100,Jan 1 2023
+google,,,100,01/01/2023
+Amazon,NY,Tech,-50,01/01/2023
+GOOGLE,San Francisco,,,Jan 1 2023
+Amazon,San Francisco,,one hundred,2023-01-01
+GOOGLE,SF,,,
+AMA zon,New York,Tech,-50,01/01/2023
+GOOGLE,new york,tech,-50,invalid
+ AMAZON,San Francisco,,,invalid
+Amazon,San Francisco,,100,invalid
+GOO gle,San Francisco,tech,,
+google,,T3ch,100,2023-01-01
+AMA zon,San Francisco,,,
+Google,New York,Tech,one hundred,2023-01-01
+ AMAZON,,tech,,invalid
+ AMAZON,NY,tech,100,Jan 1 2023
+ AMAZON,San Francisco,tech,100,01/01/2023
+amazon,New York,Technology,100,2023-01-01
+google,NY,Technology,100,
+amazon,New York,tech,,
+ AMAZON,new york,Technology,100,01/01/2023
+Google,San Francisco,,100,01/01/2023
+AMA zon,NY,Technology,100,
+GOOGLE,San Francisco,T3ch,one hundred,01/01/2023
+GOO gle,SF,T3ch,100,2023-01-01
+google,SF,,100,
+AMA zon,San Francisco,Technology,-50,invalid
+amazon,SF,,-50,
+amazon,New York,,-50,invalid
+GOOGLE,SF,,one hundred,invalid
+google,SF,Tech,100,
+amazon,SF,,-50,invalid
+amazon,new york,,100,Jan 1 2023
+GOOGLE,San Francisco,Technology,one hundred,
+amazon,New York,Tech,one hundred,2023-01-01
+google,SF,Technology,-50,Jan 1 2023
+google,new york,,one hundred,invalid
+Amazon,San Francisco,Technology,100,invalid
+GOOGLE,New York,Tech,100,invalid
+ AMAZON,San Francisco,Technology,,
+ AMAZON,,,100,2023-01-01
+GOO gle,San Francisco,,100,
+Google,San Francisco,T3ch,,
+GOOGLE,new york,,100,01/01/2023
+AMA zon,new york,Tech,,Jan 1 2023
+GOOGLE,,tech,one hundred,01/01/2023
+google,,Technology,one hundred,01/01/2023
+ AMAZON,new york,T3ch,,Jan 1 2023
+google,SF,Tech,100,invalid
+Amazon,SF,T3ch,,invalid
+GOO gle,new york,T3ch,one hundred,invalid
+AMA zon,San Francisco,Tech,,Jan 1 2023
+Google,,,one hundred,2023-01-01
+Google,San Francisco,Technology,100,
+Google,SF,Technology,one hundred,01/01/2023
+AMA zon,,,one hundred,01/01/2023
+Amazon,SF,,-50,Jan 1 2023
+AMA zon,,,-50,01/01/2023
+google,SF,tech,one hundred,01/01/2023
+amazon,SF,,100,2023-01-01
+ AMAZON,San Francisco,Technology,one hundred,01/01/2023
+Amazon,San Francisco,tech,one hundred,Jan 1 2023
+GOO gle,new york,Technology,one hundred,invalid
+ AMAZON,,tech,100,invalid
+ AMAZON,new york,tech,-50,invalid
+GOOGLE,SF,Technology,,01/01/2023
+GOOGLE,,Technology,100,2023-01-01
+google,SF,tech,,
+AMA zon,SF,,,01/01/2023
+AMA zon,,Tech,100,invalid
+AMA zon,SF,tech,,invalid
+google,new york,,100,invalid
+google,SF,tech,one hundred,
+ AMAZON,San Francisco,Tech,,
+google,New York,Technology,-50,2023-01-01
+ AMAZON,new york,,100,2023-01-01
+ AMAZON,NY,T3ch,100,invalid
+ AMAZON,new york,Tech,100,
+google,new york,,100,01/01/2023
+amazon,San Francisco,,,Jan 1 2023
+AMA zon,New York,Technology,100,
+ AMAZON,San Francisco,Tech,one hundred,2023-01-01
+Amazon,,Tech,100,Jan 1 2023
+amazon,San Francisco,Tech,-50,01/01/2023
+GOO gle,San Francisco,,,01/01/2023
+AMA zon,new york,Technology,100,01/01/2023
+Google,San Francisco,,,Jan 1 2023
+google,SF,Tech,one hundred,01/01/2023
+Google,New York,,-50,2023-01-01
+google,,tech,100,invalid
+ AMAZON,San Francisco,T3ch,-50,Jan 1 2023
+Amazon,New York,Tech,100,
+google,SF,Technology,,
+Google,new york,Tech,-50,2023-01-01
+amazon,New York,Tech,100,invalid
+GOO gle,NY,T3ch,100,01/01/2023
+GOO gle,new york,,,invalid
+google,San Francisco,,,2023-01-01
+Google,SF,T3ch,-50,2023-01-01
+Google,New York,Tech,one hundred,01/01/2023
+google,NY,T3ch,100,invalid
+AMA zon,NY,tech,100,Jan 1 2023
+GOO gle,NY,,one hundred,01/01/2023
+GOOGLE,NY,,one hundred,invalid
+GOO gle,SF,T3ch,,invalid
+AMA zon,SF,,100,
+AMA zon,NY,,-50,invalid
+GOO gle,SF,,100,invalid
+google,SF,,100,
+ AMAZON,SF,,,2023-01-01
+Amazon,NY,tech,one hundred,invalid
+google,NY,tech,100,01/01/2023
+GOOGLE,SF,T3ch,-50,2023-01-01
+ AMAZON,New York,T3ch,,
+AMA zon,new york,Tech,one hundred,
+Google,SF,Technology,one hundred,01/01/2023
+amazon,New York,,,01/01/2023
+Google,New York,,100,
+GOOGLE,New York,,one hundred,
+ AMAZON,SF,Tech,,01/01/2023
+Amazon,NY,,-50,01/01/2023
+GOO gle,San Francisco,,100,Jan 1 2023
+google,,,,
+amazon,,,one hundred,
+Google,NY,Tech,100,
+amazon,New York,tech,,
+GOOGLE,new york,Technology,,01/01/2023
+google,,,100,invalid
+google,NY,,one hundred,Jan 1 2023
+google,San Francisco,Tech,,2023-01-01
+Google,SF,Technology,,
+google,SF,Tech,100,01/01/2023
+GOOGLE,SF,,,
+Google,New York,Technology,100,invalid
+GOO gle,NY,Technology,one hundred,invalid
+Amazon,SF,Technology,one hundred,
+amazon,San Francisco,,,
+AMA zon,New York,Tech,100,01/01/2023
+GOOGLE,San Francisco,T3ch,,invalid
+AMA zon,New York,Technology,,2023-01-01
+Google,New York,tech,100,2023-01-01
+google,San Francisco,Tech,-50,invalid
+Google,New York,T3ch,one hundred,01/01/2023
+google,NY,,100,invalid
+google,,Tech,-50,Jan 1 2023
+Google,New York,T3ch,100,invalid
+amazon,NY,Tech,,2023-01-01
+google,SF,T3ch,-50,Jan 1 2023
+AMA zon,,tech,one hundred,2023-01-01
+GOO gle,new york,,one hundred,invalid
+GOO gle,NY,,,Jan 1 2023
+ AMAZON,San Francisco,,,
+AMA zon,New York,T3ch,100,2023-01-01
+GOO gle,NY,,one hundred,01/01/2023
+AMA zon,,tech,100,2023-01-01
+GOO gle,,,100,
+Amazon,San Francisco,Technology,one hundred,2023-01-01
+Google,new york,tech,,invalid
+AMA zon,NY,T3ch,100,
+AMA zon,New York,Technology,-50,01/01/2023
+GOO gle,San Francisco,Technology,-50,
+GOOGLE,San Francisco,Tech,one hundred,
+AMA zon,New York,T3ch,one hundred,01/01/2023
+amazon,San Francisco,Tech,100,01/01/2023
+google,,Tech,,Jan 1 2023
+google,New York,T3ch,,
+GOO gle,SF,,100,invalid
+AMA zon,NY,Tech,-50,invalid
+google,San Francisco,,100,01/01/2023
+GOOGLE,,Tech,100,2023-01-01
+GOOGLE,New York,tech,-50,Jan 1 2023
+GOOGLE,SF,T3ch,100,2023-01-01
+Google,San Francisco,Technology,100,2023-01-01
+AMA zon,SF,,,2023-01-01
+GOOGLE,,tech,,01/01/2023
+GOO gle,SF,tech,,01/01/2023
+AMA zon,NY,Tech,100,2023-01-01
+GOOGLE,SF,,100,2023-01-01
+google,San Francisco,,100,invalid
+GOOGLE,new york,T3ch,-50,01/01/2023
+Amazon,San Francisco,,-50,
+Google,San Francisco,Technology,one hundred,01/01/2023
+amazon,new york,,100,
+GOO gle,,Technology,,invalid
+Amazon,NY,,-50,01/01/2023
+amazon,New York,T3ch,one hundred,01/01/2023
+ AMAZON,new york,Technology,one hundred,2023-01-01
+Amazon,San Francisco,T3ch,100,Jan 1 2023
+amazon,New York,T3ch,,2023-01-01
+AMA zon,NY,Tech,,invalid
+ AMAZON,SF,,one hundred,
+google,,,one hundred,
+GOOGLE,,tech,one hundred,01/01/2023
+Google,New York,,100,invalid
+AMA zon,new york,T3ch,one hundred,Jan 1 2023
+google,New York,Technology,100,2023-01-01
+GOOGLE,NY,tech,one hundred,Jan 1 2023
+amazon,NY,tech,100,
+Amazon,,Technology,100,2023-01-01
+Amazon,,,,01/01/2023
+ AMAZON,San Francisco,,100,2023-01-01
+Amazon,New York,,,01/01/2023
+GOOGLE,San Francisco,tech,100,01/01/2023
+AMA zon,SF,T3ch,100,01/01/2023
+Google,new york,T3ch,-50,invalid
+Amazon,NY,,one hundred,invalid
+ AMAZON,SF,T3ch,100,2023-01-01
+Google,NY,T3ch,,01/01/2023
+google,,,100,Jan 1 2023
+AMA zon,SF,T3ch,one hundred,01/01/2023
+GOO gle,NY,,one hundred,01/01/2023
+GOO gle,New York,,one hundred,01/01/2023
+Google,New York,Tech,-50,Jan 1 2023
+Google,,,100,
+amazon,,,-50,2023-01-01
+GOOGLE,,T3ch,,
+Amazon,San Francisco,tech,,invalid
+GOO gle,NY,,-50,2023-01-01
+google,new york,Tech,,
+AMA zon,,,100,Jan 1 2023
+Google,San Francisco,T3ch,100,01/01/2023
+Amazon,SF,,one hundred,
+Google,San Francisco,Tech,100,01/01/2023
+Amazon,new york,tech,100,2023-01-01
+Amazon,new york,,-50,Jan 1 2023
+GOO gle,New York,,,2023-01-01
+GOO gle,San Francisco,T3ch,one hundred,Jan 1 2023
+google,San Francisco,Tech,100,
+google,new york,tech,,invalid
+AMA zon,New York,T3ch,100,2023-01-01
+GOO gle,new york,,one hundred,invalid
+GOOGLE,SF,Technology,one hundred,2023-01-01
+amazon,new york,,100,
+amazon,San Francisco,,100,01/01/2023
+Google,SF,Tech,100,2023-01-01
+GOOGLE,,Tech,-50,
+GOOGLE,New York,,one hundred,invalid
+GOOGLE,San Francisco,Tech,one hundred,
+Google,,tech,100,2023-01-01
+ AMAZON,new york,Tech,,invalid
+amazon,,,-50,Jan 1 2023
+AMA zon,new york,,100,2023-01-01
+google,SF,tech,-50,2023-01-01
+Google,NY,Tech,,invalid
+Google,New York,,,invalid
+amazon,New York,tech,,01/01/2023
+Google,NY,Tech,one hundred,
+AMA zon,NY,,-50,invalid
+Google,new york,Tech,100,
+Amazon,,tech,,2023-01-01
+amazon,NY,tech,one hundred,2023-01-01
+GOOGLE,San Francisco,tech,100,
+ AMAZON,New York,,one hundred,2023-01-01
+ AMAZON,NY,,100,2023-01-01
+amazon,SF,tech,,Jan 1 2023
+GOOGLE,,,,2023-01-01
+Amazon,new york,Technology,,01/01/2023
+amazon,New York,T3ch,100,Jan 1 2023
+google,,Technology,,01/01/2023
+amazon,San Francisco,Technology,one hundred,01/01/2023
+Google,San Francisco,Technology,-50,01/01/2023
+Google,NY,tech,100,01/01/2023
+Amazon,,,one hundred,01/01/2023
+Google,NY,,100,
+AMA zon,new york,,one hundred,01/01/2023
+Amazon,New York,tech,-50,
+GOOGLE,,Technology,-50,01/01/2023
+Amazon,New York,Technology,,01/01/2023
+amazon,San Francisco,T3ch,-50,01/01/2023
+GOO gle,SF,T3ch,100,01/01/2023
+Amazon,New York,Tech,,01/01/2023
+google,new york,Tech,100,
+AMA zon,,Technology,100,Jan 1 2023
+amazon,,,100,Jan 1 2023
+google,NY,Tech,-50,2023-01-01
+AMA zon,San Francisco,,,Jan 1 2023
+Amazon,,Technology,100,invalid
+AMA zon,SF,,100,
+google,SF,T3ch,-50,01/01/2023
+ AMAZON,San Francisco,T3ch,,2023-01-01
+amazon,NY,,,Jan 1 2023
+Google,New York,Technology,,invalid
+AMA zon,,tech,100,
+Google,SF,tech,,Jan 1 2023
+Amazon,San Francisco,T3ch,-50,2023-01-01
+AMA zon,,tech,one hundred,Jan 1 2023
+ AMAZON,new york,tech,-50,01/01/2023
+AMA zon,new york,Tech,,2023-01-01
+GOOGLE,new york,T3ch,100,
+Google,San Francisco,T3ch,-50,2023-01-01
+google,SF,Technology,100,Jan 1 2023
+GOO gle,New York,,100,2023-01-01
+amazon,New York,T3ch,,01/01/2023
+AMA zon,,tech,100,invalid
+Amazon,San Francisco,,-50,Jan 1 2023
+GOO gle,new york,T3ch,100,01/01/2023
+GOOGLE,new york,Tech,100,Jan 1 2023
+amazon,New York,tech,-50,01/01/2023
+amazon,New York,Technology,,2023-01-01
+GOOGLE,new york,Tech,100,01/01/2023
+GOO gle,San Francisco,,one hundred,Jan 1 2023
+GOOGLE,New York,tech,,
+ AMAZON,SF,tech,-50,
+AMA zon,NY,T3ch,one hundred,01/01/2023
+AMA zon,New York,Tech,100,01/01/2023
+Amazon,SF,,100,2023-01-01
+GOOGLE,NY,T3ch,,invalid
+google,,T3ch,100,2023-01-01
+Amazon,NY,,100,
+GOOGLE,San Francisco,tech,,Jan 1 2023
+google,NY,,one hundred,2023-01-01
+Google,New York,Technology,one hundred,invalid
+GOO gle,NY,tech,,Jan 1 2023
+amazon,New York,tech,one hundred,Jan 1 2023
+Amazon,New York,Tech,-50,01/01/2023
+Google,,Technology,one hundred,
+Amazon,new york,,,invalid
+Amazon,San Francisco,Tech,100,
+GOO gle,,,100,invalid
+google,,Tech,100,2023-01-01
+amazon,San Francisco,Technology,100,
+AMA zon,NY,Tech,,invalid
+ AMAZON,SF,tech,100,invalid
+AMA zon,SF,,one hundred,01/01/2023
+AMA zon,,,100,01/01/2023
+Amazon,New York,T3ch,,
+AMA zon,,,100,invalid
+GOOGLE,San Francisco,Technology,100,
+GOO gle,SF,tech,100,2023-01-01
+GOOGLE,New York,tech,,
+ AMAZON,San Francisco,,100,2023-01-01
+amazon,NY,T3ch,100,invalid
+amazon,San Francisco,,-50,2023-01-01
+google,new york,,100,invalid
+GOO gle,SF,T3ch,100,
+Amazon,New York,Tech,,2023-01-01
+amazon,new york,T3ch,100,
+Google,SF,,-50,
+GOOGLE,new york,Tech,-50,Jan 1 2023
+ AMAZON,NY,Tech,one hundred,Jan 1 2023
+Amazon,new york,,-50,2023-01-01
+google,NY,Technology,100,Jan 1 2023
+google,San Francisco,,-50,
+AMA zon,new york,,100,invalid
+Amazon,NY,tech,100,01/01/2023
+google,new york,,-50,invalid
+AMA zon,New York,T3ch,one hundred,invalid
+ AMAZON,SF,Technology,-50,2023-01-01
+GOO gle,,tech,-50,
+AMA zon,,tech,100,
+GOO gle,new york,T3ch,one hundred,2023-01-01
+amazon,San Francisco,,100,01/01/2023
+amazon,New York,,100,Jan 1 2023
+AMA zon,new york,T3ch,one hundred,invalid
+amazon,,tech,100,invalid
+google,NY,Technology,100,Jan 1 2023
+GOOGLE,New York,Technology,100,invalid
+google,San Francisco,tech,100,invalid
+Amazon,New York,tech,100,
+AMA zon,new york,tech,one hundred,invalid
+Amazon,new york,,100,
+google,SF,Technology,100,Jan 1 2023
+GOO gle,San Francisco,T3ch,,
+AMA zon,new york,Tech,one hundred,01/01/2023
+GOOGLE,San Francisco,T3ch,-50,
+Amazon,NY,,one hundred,
+Amazon,,Technology,100,
+Amazon,New York,Technology,100,2023-01-01
+GOO gle,San Francisco,Technology,100,2023-01-01
+Amazon,San Francisco,,100,2023-01-01
+Amazon,,Technology,one hundred,Jan 1 2023
+amazon,SF,Technology,,Jan 1 2023
+Google,San Francisco,Tech,100,
+google,,,-50,2023-01-01
+GOOGLE,New York,tech,100,
+google,New York,,one hundred,invalid
+google,SF,Tech,-50,2023-01-01
+Amazon,,,,2023-01-01
+Google,,T3ch,one hundred,01/01/2023
+GOO gle,SF,Technology,,01/01/2023
+AMA zon,SF,T3ch,-50,2023-01-01
+GOOGLE,SF,,one hundred,Jan 1 2023
+GOO gle,,,100,
+ AMAZON,SF,,100,invalid
+AMA zon,new york,,,invalid
+Google,,Technology,100,Jan 1 2023
+google,San Francisco,tech,100,Jan 1 2023
+Google,,Technology,100,
+ AMAZON,SF,T3ch,one hundred,2023-01-01
+GOOGLE,SF,,100,Jan 1 2023
+Amazon,,,,01/01/2023
+google,NY,T3ch,,Jan 1 2023
+Google,SF,T3ch,,invalid
+GOO gle,San Francisco,,,01/01/2023
+ AMAZON,new york,,-50,2023-01-01
+Amazon,NY,Tech,-50,2023-01-01
+AMA zon,new york,,,invalid
+GOOGLE,New York,T3ch,-50,
+Google,SF,tech,-50,2023-01-01
+amazon,SF,Technology,-50,Jan 1 2023
+AMA zon,,Technology,-50,
+GOO gle,NY,Tech,-50,2023-01-01
+ AMAZON,,Tech,100,invalid
+GOO gle,new york,Technology,100,2023-01-01
+Amazon,SF,Technology,one hundred,01/01/2023
+Google,NY,T3ch,100,2023-01-01
+ AMAZON,,tech,one hundred,2023-01-01
+AMA zon,,tech,100,
+google,,,100,
+Amazon,SF,tech,one hundred,01/01/2023
+google,New York,T3ch,100,01/01/2023
+AMA zon,San Francisco,Tech,-50,01/01/2023
+GOOGLE,New York,,-50,
+GOOGLE,SF,Technology,one hundred,Jan 1 2023
+Amazon,NY,Tech,100,01/01/2023
+ AMAZON,new york,Tech,100,Jan 1 2023
+google,,Technology,one hundred,Jan 1 2023
+AMA zon,New York,,one hundred,
+Amazon,New York,T3ch,one hundred,invalid
+amazon,NY,,100,2023-01-01
+google,San Francisco,Technology,100,01/01/2023
+ AMAZON,NY,,-50,
+google,SF,Tech,-50,
+Amazon,SF,Technology,one hundred,
+Amazon,new york,T3ch,one hundred,
+AMA zon,New York,Technology,100,invalid
+AMA zon,San Francisco,,one hundred,Jan 1 2023
+AMA zon,new york,,one hundred,invalid
+google,new york,Technology,100,
+Google,new york,Technology,100,01/01/2023
+ AMAZON,San Francisco,T3ch,,invalid
+Amazon,San Francisco,T3ch,100,2023-01-01
+GOOGLE,SF,T3ch,one hundred,01/01/2023
+GOO gle,New York,,,invalid
+GOO gle,NY,,,01/01/2023
+google,SF,,-50,01/01/2023
+amazon,San Francisco,Tech,,01/01/2023
+ AMAZON,SF,,100,invalid
+amazon,New York,,100,2023-01-01
+Amazon,SF,,100,invalid
+ AMAZON,NY,tech,,01/01/2023
+Amazon,new york,Tech,,
+Google,New York,,-50,Jan 1 2023
+amazon,new york,,100,01/01/2023
+Amazon,NY,T3ch,-50,
+GOO gle,new york,tech,100,2023-01-01
+amazon,new york,,100,2023-01-01
+Amazon,New York,tech,100,2023-01-01
+GOOGLE,SF,Technology,100,Jan 1 2023
+Amazon,SF,Technology,one hundred,2023-01-01
+GOO gle,SF,T3ch,,01/01/2023
+GOOGLE,New York,tech,,2023-01-01
+amazon,new york,T3ch,100,invalid
+GOO gle,SF,Technology,-50,2023-01-01
+amazon,,tech,100,01/01/2023
+GOO gle,New York,Tech,,Jan 1 2023
+google,San Francisco,Tech,100,Jan 1 2023
+google,new york,,one hundred,Jan 1 2023
+amazon,,Tech,-50,2023-01-01
+amazon,New York,,100,invalid
+AMA zon,,,one hundred,Jan 1 2023
+google,new york,tech,-50,01/01/2023
+amazon,NY,tech,100,invalid
+google,New York,Tech,-50,
+GOO gle,new york,tech,100,2023-01-01
+google,San Francisco,,one hundred,01/01/2023
+AMA zon,New York,T3ch,,invalid
+AMA zon,New York,Tech,100,Jan 1 2023
+Google,new york,T3ch,,invalid
+amazon,,Tech,one hundred,01/01/2023
+ AMAZON,SF,Tech,100,2023-01-01
+Google,NY,Technology,-50,
+google,San Francisco,,,01/01/2023
+amazon,SF,Tech,100,2023-01-01
+Google,NY,,100,
+Google,new york,tech,100,01/01/2023
+Amazon,new york,T3ch,-50,
+GOOGLE,New York,,-50,
+ AMAZON,New York,Technology,one hundred,01/01/2023
+GOOGLE,NY,Tech,,invalid
+Google,,Technology,100,Jan 1 2023
+Google,,,,2023-01-01
+ AMAZON,SF,T3ch,,
+GOO gle,New York,Technology,one hundred,2023-01-01
+ AMAZON,New York,Technology,100,
+GOOGLE,,,100,
+GOOGLE,NY,Tech,100,Jan 1 2023
+ AMAZON,San Francisco,Technology,100,01/01/2023
+google,New York,Technology,100,01/01/2023
+amazon,NY,T3ch,100,01/01/2023
+Amazon,new york,tech,100,
+GOO gle,SF,tech,,invalid
+GOO gle,SF,,100,2023-01-01
+AMA zon,,tech,100,invalid
+ AMAZON,SF,Technology,,
+amazon,,T3ch,-50,
+GOO gle,SF,,-50,invalid
+Google,SF,T3ch,100,01/01/2023
+GOOGLE,SF,,-50,01/01/2023
+ AMAZON,NY,,,01/01/2023
+google,new york,T3ch,,01/01/2023
+ AMAZON,,,,2023-01-01
+AMA zon,NY,T3ch,100,invalid
+Amazon,SF,tech,-50,
+ AMAZON,New York,T3ch,100,invalid
+ AMAZON,New York,,,invalid
+google,San Francisco,Tech,one hundred,01/01/2023
+Amazon,SF,,100,invalid
+Amazon,NY,,one hundred,Jan 1 2023
+ AMAZON,NY,Technology,100,Jan 1 2023
+ AMAZON,New York,tech,-50,Jan 1 2023
+google,New York,,one hundred,Jan 1 2023
+Google,San Francisco,T3ch,-50,invalid
+ AMAZON,New York,,100,2023-01-01
+AMA zon,,,-50,invalid
+amazon,San Francisco,,one hundred,Jan 1 2023
+AMA zon,San Francisco,T3ch,-50,01/01/2023
+Google,San Francisco,tech,one hundred,2023-01-01
+amazon,,Tech,100,Jan 1 2023
+ AMAZON,SF,T3ch,,
+ AMAZON,new york,Technology,,
+google,New York,T3ch,-50,invalid
+Amazon,,Technology,one hundred,invalid
+Amazon,San Francisco,,100,2023-01-01
+ AMAZON,SF,,,Jan 1 2023
+AMA zon,NY,,-50,Jan 1 2023
+GOO gle,,Technology,100,invalid
+GOO gle,SF,Tech,,2023-01-01
+GOO gle,NY,,one hundred,01/01/2023
+GOO gle,,Tech,-50,Jan 1 2023
+AMA zon,New York,,100,
+ AMAZON,SF,tech,one hundred,invalid
+GOO gle,New York,Technology,-50,Jan 1 2023
+ AMAZON,San Francisco,tech,-50,invalid
+GOOGLE,new york,Tech,one hundred,
+amazon,SF,Tech,100,Jan 1 2023
+GOOGLE,SF,Tech,,01/01/2023
+amazon,,tech,100,Jan 1 2023
+GOO gle,SF,Technology,,Jan 1 2023
+Amazon,new york,,100,01/01/2023
+GOO gle,NY,Tech,,2023-01-01
+ AMAZON,,,,Jan 1 2023
+GOO gle,new york,tech,-50,Jan 1 2023
+GOOGLE,New York,T3ch,100,01/01/2023
+AMA zon,San Francisco,tech,100,01/01/2023
+Google,NY,Tech,-50,invalid
+amazon,,,,
+ AMAZON,new york,tech,one hundred,
+AMA zon,San Francisco,Tech,100,invalid
+AMA zon,new york,Tech,100,
+Amazon,San Francisco,Tech,one hundred,
+GOOGLE,NY,,-50,
+amazon,NY,tech,,invalid
+GOOGLE,new york,,100,Jan 1 2023
+AMA zon,New York,,one hundred,2023-01-01
+AMA zon,SF,Tech,,invalid
+Google,New York,Technology,-50,2023-01-01
+Google,,Tech,100,2023-01-01
+Google,New York,,-50,invalid
+google,new york,Technology,100,
+GOOGLE,New York,Tech,one hundred,2023-01-01
+GOO gle,NY,,,Jan 1 2023
+AMA zon,SF,,,Jan 1 2023
+Amazon,San Francisco,tech,one hundred,2023-01-01
+ AMAZON,SF,Technology,-50,2023-01-01
+AMA zon,NY,,100,2023-01-01
+amazon,,Tech,,2023-01-01
+amazon,,T3ch,100,
+AMA zon,New York,,100,Jan 1 2023
+GOOGLE,San Francisco,T3ch,one hundred,2023-01-01
+AMA zon,new york,T3ch,-50,
+GOO gle,SF,Technology,-50,2023-01-01
+AMA zon,New York,,-50,2023-01-01
+ AMAZON,San Francisco,Tech,-50,01/01/2023
+ AMAZON,new york,Tech,one hundred,invalid
+ AMAZON,NY,Technology,-50,01/01/2023
+google,new york,,-50,01/01/2023
+Amazon,NY,,,
+google,New York,tech,,01/01/2023
+amazon,,Technology,one hundred,2023-01-01
+GOOGLE,,tech,one hundred,2023-01-01
+GOOGLE,New York,,-50,2023-01-01
+GOOGLE,NY,,100,01/01/2023
+GOO gle,new york,T3ch,100,01/01/2023
+GOO gle,New York,T3ch,one hundred,2023-01-01
+GOOGLE,NY,tech,,01/01/2023
+Google,new york,Technology,-50,Jan 1 2023
+google,NY,,,Jan 1 2023
+AMA zon,San Francisco,Technology,,
+google,,Tech,100,Jan 1 2023
+google,,,,invalid
+Amazon,San Francisco,tech,100,Jan 1 2023
+AMA zon,NY,,100,invalid
+Amazon,,tech,-50,01/01/2023
+ AMAZON,New York,Technology,100,Jan 1 2023
+Google,,Tech,,01/01/2023
+AMA zon,San Francisco,Technology,100,01/01/2023
+amazon,New York,T3ch,100,Jan 1 2023
+GOO gle,new york,Tech,100,Jan 1 2023
+Amazon,New York,Tech,one hundred,Jan 1 2023
+ AMAZON,San Francisco,Tech,,Jan 1 2023
+GOOGLE,NY,Technology,-50,invalid
+amazon,new york,,,2023-01-01
+google,San Francisco,T3ch,one hundred,Jan 1 2023
+GOO gle,SF,,,invalid
+Amazon,NY,Tech,,Jan 1 2023
+google,NY,Technology,100,
+GOOGLE,NY,,one hundred,
+ AMAZON,NY,,,01/01/2023
+ AMAZON,new york,,100,2023-01-01
+ AMAZON,new york,,,invalid
+amazon,,tech,100,2023-01-01
+google,NY,Tech,one hundred,
+google,,Tech,100,01/01/2023
+GOO gle,,T3ch,-50,Jan 1 2023
+GOOGLE,NY,,-50,Jan 1 2023
+Amazon,New York,Tech,100,invalid
+AMA zon,new york,Technology,,01/01/2023
+google,NY,Tech,100,2023-01-01
+google,new york,Technology,,01/01/2023
+google,New York,,100,Jan 1 2023
+Amazon,SF,,100,
+google,NY,Technology,100,2023-01-01
+amazon,,Technology,100,
+amazon,new york,Technology,one hundred,invalid
+GOO gle,,T3ch,100,
+GOOGLE,New York,,one hundred,2023-01-01
+google,San Francisco,Technology,,01/01/2023
+google,,Tech,one hundred,2023-01-01
+amazon,San Francisco,T3ch,100,
+google,SF,,-50,invalid
+GOOGLE,,,,2023-01-01
+Amazon,,Technology,one hundred,01/01/2023
+AMA zon,New York,,one hundred,
+GOOGLE,,,100,2023-01-01
+amazon,SF,tech,one hundred,
+GOOGLE,New York,Technology,100,01/01/2023
+amazon,NY,tech,100,
+amazon,new york,Tech,one hundred,
+GOOGLE,NY,Technology,,2023-01-01
+Google,San Francisco,Technology,one hundred,01/01/2023
+amazon,NY,Technology,,2023-01-01
+Amazon,new york,,100,01/01/2023
+google,SF,Technology,100,Jan 1 2023
+Google,NY,Technology,-50,Jan 1 2023
+Google,NY,T3ch,100,
+ AMAZON,,,-50,invalid
+Amazon,,,100,invalid
+Amazon,San Francisco,Technology,-50,
+google,New York,tech,one hundred,2023-01-01
+amazon,San Francisco,tech,100,2023-01-01
+google,SF,tech,100,invalid
+AMA zon,,,one hundred,2023-01-01
+Google,,,100,2023-01-01
+Amazon,New York,,100,
+Amazon,New York,T3ch,-50,invalid
+amazon,new york,Technology,-50,
+Google,SF,T3ch,100,01/01/2023
+AMA zon,San Francisco,Technology,100,2023-01-01
+AMA zon,SF,tech,,Jan 1 2023
+Amazon,San Francisco,Tech,,invalid
+ AMAZON,,Tech,one hundred,
+ AMAZON,NY,Tech,100,01/01/2023
+amazon,New York,,-50,
+Amazon,NY,,-50,2023-01-01
+GOO gle,San Francisco,,100,
+AMA zon,SF,,,01/01/2023
+GOOGLE,SF,,-50,01/01/2023
+Google,,,-50,2023-01-01
+Google,NY,Technology,,
+google,new york,tech,-50,
+Google,New York,,100,invalid
+amazon,NY,T3ch,100,Jan 1 2023
+AMA zon,new york,,100,2023-01-01
+google,New York,,100,
+amazon,SF,Tech,,Jan 1 2023
+amazon,NY,T3ch,,2023-01-01
+GOOGLE,,,100,Jan 1 2023
+GOO gle,NY,,,
+AMA zon,SF,Technology,100,invalid
+google,San Francisco,Technology,100,01/01/2023
+GOOGLE,San Francisco,Technology,-50,2023-01-01
+AMA zon,New York,tech,100,Jan 1 2023
+amazon,San Francisco,,one hundred,Jan 1 2023
+Google,new york,Tech,one hundred,invalid
+AMA zon,NY,,one hundred,invalid
+Amazon,,,,01/01/2023
+GOOGLE,San Francisco,tech,,invalid
+Amazon,SF,,100,2023-01-01
+amazon,San Francisco,Tech,,invalid
+GOOGLE,SF,,one hundred,2023-01-01
+amazon,New York,Technology,100,
+Google,San Francisco,,one hundred,01/01/2023
+GOO gle,San Francisco,Technology,,2023-01-01
+Google,New York,Tech,100,01/01/2023
+GOO gle,San Francisco,T3ch,100,Jan 1 2023
+GOO gle,NY,,100,invalid
+GOO gle,San Francisco,,100,2023-01-01
+amazon,NY,,100,Jan 1 2023
+Google,New York,,one hundred,Jan 1 2023
+GOOGLE,,T3ch,100,invalid
+ AMAZON,San Francisco,,-50,invalid
+amazon,,,100,invalid
+AMA zon,,,-50,2023-01-01
+amazon,San Francisco,tech,-50,Jan 1 2023
+ AMAZON,New York,Technology,,invalid
+amazon,,Tech,-50,
+AMA zon,NY,,,invalid
+Amazon,new york,tech,100,2023-01-01
+amazon,,,100,Jan 1 2023
+Amazon,San Francisco,T3ch,one hundred,Jan 1 2023
+Google,New York,,-50,01/01/2023
+Google,SF,Technology,100,2023-01-01
+GOOGLE,New York,,,invalid
+AMA zon,NY,,,
+GOOGLE,,,100,Jan 1 2023
+Google,SF,,-50,invalid
+google,NY,T3ch,,01/01/2023
+ AMAZON,new york,Technology,-50,01/01/2023
+Google,new york,Technology,100,01/01/2023
+GOO gle,New York,Technology,one hundred,Jan 1 2023
+GOOGLE,,Technology,,2023-01-01
+GOO gle,New York,,,
+GOO gle,New York,,-50,2023-01-01
+google,new york,,,Jan 1 2023
+ AMAZON,new york,T3ch,one hundred,invalid
+GOO gle,new york,Tech,,01/01/2023
+Google,,tech,-50,2023-01-01
+amazon,New York,,100,Jan 1 2023
+Amazon,San Francisco,,one hundred,Jan 1 2023
+Amazon,NY,,one hundred,Jan 1 2023
+GOO gle,NY,Tech,,invalid
+Amazon,new york,,-50,01/01/2023
+GOOGLE,,T3ch,one hundred,invalid
+GOOGLE,NY,,,invalid
+Google,San Francisco,Tech,100,01/01/2023
+Amazon,SF,T3ch,,01/01/2023
+ AMAZON,NY,tech,100,invalid
+GOOGLE,new york,,100,2023-01-01
+AMA zon,NY,,100,01/01/2023
+Google,new york,,-50,2023-01-01
+GOOGLE,San Francisco,Technology,,Jan 1 2023
+ AMAZON,SF,Tech,100,01/01/2023
+Amazon,San Francisco,Tech,,Jan 1 2023
+ AMAZON,SF,T3ch,,01/01/2023
+Amazon,NY,,100,
+ AMAZON,New York,Tech,,01/01/2023
+amazon,NY,Tech,100,2023-01-01
+Google,SF,tech,one hundred,01/01/2023
+amazon,SF,Tech,,01/01/2023
+Amazon,New York,Tech,,invalid
+ AMAZON,new york,,,Jan 1 2023
+GOOGLE,SF,Technology,100,
+google,SF,tech,100,2023-01-01
+ AMAZON,New York,T3ch,100,Jan 1 2023
+ AMAZON,,tech,-50,Jan 1 2023
+AMA zon,new york,T3ch,100,Jan 1 2023
+amazon,SF,T3ch,,
+Amazon,New York,T3ch,100,Jan 1 2023
+GOOGLE,New York,tech,,
+amazon,new york,T3ch,100,
+google,San Francisco,T3ch,100,Jan 1 2023
+AMA zon,New York,T3ch,-50,01/01/2023
+AMA zon,new york,Tech,100,
+AMA zon,New York,,-50,invalid
+AMA zon,NY,T3ch,100,01/01/2023
+Amazon,New York,Technology,100,Jan 1 2023
+ AMAZON,new york,,,Jan 1 2023
+Google,San Francisco,T3ch,,
+AMA zon,San Francisco,Tech,one hundred,invalid
+AMA zon,New York,Technology,100,invalid
+GOO gle,New York,Technology,-50,
+google,NY,T3ch,,invalid
+ AMAZON,NY,,100,01/01/2023
+google,San Francisco,,100,2023-01-01
+GOOGLE,SF,T3ch,100,01/01/2023
+AMA zon,San Francisco,,100,invalid
+GOOGLE,New York,,-50,invalid
+google,SF,Tech,one hundred,invalid
+ AMAZON,SF,T3ch,,2023-01-01
+google,San Francisco,,one hundred,Jan 1 2023
+Amazon,NY,,100,Jan 1 2023
+AMA zon,,Technology,one hundred,01/01/2023
+GOOGLE,SF,tech,100,01/01/2023
+AMA zon,SF,,100,01/01/2023
+AMA zon,New York,,one hundred,01/01/2023
+google,NY,tech,-50,01/01/2023
+GOO gle,new york,,100,2023-01-01
+GOO gle,New York,Technology,100,invalid
+GOO gle,San Francisco,tech,100,
+amazon,new york,,100,Jan 1 2023
+amazon,SF,T3ch,100,
+Amazon,SF,,100,01/01/2023
+ AMAZON,new york,tech,100,Jan 1 2023
+AMA zon,San Francisco,Tech,100,invalid
+GOOGLE,new york,tech,,Jan 1 2023
+ AMAZON,,,100,
+GOO gle,New York,tech,,01/01/2023
+google,SF,,one hundred,invalid
+google,,T3ch,one hundred,Jan 1 2023
+GOO gle,San Francisco,Tech,,Jan 1 2023
+Google,NY,,,invalid
+Google,new york,Tech,one hundred,01/01/2023
+amazon,NY,Tech,,Jan 1 2023
+GOO gle,new york,T3ch,-50,01/01/2023
+GOO gle,New York,T3ch,,
+ AMAZON,SF,tech,one hundred,Jan 1 2023
+Google,SF,tech,-50,
+Google,new york,tech,100,2023-01-01
+amazon,,Tech,one hundred,2023-01-01
+google,New York,Tech,,
+AMA zon,San Francisco,,-50,01/01/2023
+ AMAZON,New York,,,
+google,,Tech,one hundred,
+GOO gle,NY,Technology,one hundred,01/01/2023
+amazon,NY,,,01/01/2023
+AMA zon,,T3ch,one hundred,
+google,SF,T3ch,-50,invalid
+GOO gle,new york,tech,one hundred,invalid
+Google,SF,tech,one hundred,01/01/2023
+Google,San Francisco,Tech,one hundred,2023-01-01
+ AMAZON,New York,Tech,-50,
+google,San Francisco,tech,100,2023-01-01
+google,new york,T3ch,,Jan 1 2023
+AMA zon,SF,,one hundred,
+Amazon,SF,Tech,100,Jan 1 2023
+AMA zon,SF,Technology,100,
+GOO gle,SF,,100,invalid
+Amazon,new york,T3ch,-50,Jan 1 2023
+AMA zon,NY,T3ch,one hundred,01/01/2023
+GOOGLE,,,one hundred,
+ AMAZON,NY,,,
+GOOGLE,new york,Tech,100,invalid
+GOOGLE,new york,,100,invalid
+GOOGLE,,T3ch,,invalid
+amazon,New York,T3ch,one hundred,
+Amazon,,,,01/01/2023
+Google,SF,,,01/01/2023
+ AMAZON,,,-50,Jan 1 2023
+GOO gle,SF,tech,100,invalid
+GOO gle,New York,Technology,one hundred,invalid
+AMA zon,,,100,
+GOO gle,San Francisco,Tech,100,2023-01-01
+ AMAZON,,tech,-50,invalid
+google,New York,Tech,-50,2023-01-01
+Google,SF,,,
+ AMAZON,NY,,one hundred,2023-01-01
+Amazon,NY,Tech,one hundred,Jan 1 2023
+Google,,tech,one hundred,01/01/2023
+Google,SF,T3ch,100,invalid
+ AMAZON,New York,Technology,-50,invalid
+google,NY,tech,one hundred,invalid
+GOO gle,NY,,100,2023-01-01
+amazon,San Francisco,,,01/01/2023
+GOO gle,,,100,invalid
+AMA zon,SF,Tech,-50,invalid
+ AMAZON,NY,Technology,100,invalid
+google,new york,Tech,100,invalid
+AMA zon,San Francisco,,100,01/01/2023
+GOO gle,SF,,-50,01/01/2023
+ AMAZON,SF,Technology,-50,2023-01-01
+ AMAZON,SF,Technology,100,2023-01-01
+GOO gle,,tech,-50,
+google,,tech,100,01/01/2023
+Google,San Francisco,T3ch,one hundred,01/01/2023
+google,,,100,01/01/2023
+Google,San Francisco,Technology,-50,
+GOOGLE,San Francisco,,,invalid
+Google,San Francisco,tech,100,invalid
+Amazon,,,-50,2023-01-01
+GOOGLE,new york,,100,invalid
+amazon,NY,tech,100,2023-01-01
+GOOGLE,San Francisco,tech,one hundred,invalid
+amazon,,Technology,100,01/01/2023
+amazon,NY,,,
+AMA zon,new york,,100,Jan 1 2023
+Amazon,,Technology,100,Jan 1 2023
+GOOGLE,NY,,,
+Amazon,New York,,one hundred,01/01/2023
+Amazon,SF,Tech,,
+AMA zon,new york,T3ch,100,Jan 1 2023
+ AMAZON,SF,T3ch,100,Jan 1 2023
+Amazon,San Francisco,,100,01/01/2023
+Google,new york,,-50,Jan 1 2023
+Google,New York,tech,100,invalid
+Google,SF,,100,Jan 1 2023
+GOO gle,NY,,-50,01/01/2023
+GOOGLE,New York,Tech,100,01/01/2023
+Google,NY,,100,01/01/2023
+Amazon,,,100,invalid
+Amazon,new york,,-50,
+google,San Francisco,Tech,,invalid
+Google,NY,tech,-50,Jan 1 2023
+ AMAZON,SF,tech,,2023-01-01
+Google,San Francisco,Tech,,Jan 1 2023
+GOOGLE,NY,,,invalid
+GOOGLE,NY,,100,01/01/2023
+Amazon,New York,Tech,one hundred,
+amazon,SF,,100,
+amazon,,,100,invalid
+Google,NY,T3ch,-50,
+AMA zon,,T3ch,one hundred,2023-01-01
+AMA zon,NY,,,01/01/2023
+GOO gle,New York,T3ch,100,
+GOO gle,SF,T3ch,100,01/01/2023
+GOOGLE,new york,Tech,100,Jan 1 2023
+GOO gle,San Francisco,,100,invalid
+AMA zon,New York,Technology,100,Jan 1 2023
+google,NY,Tech,100,
+Amazon,San Francisco,T3ch,one hundred,01/01/2023
+ AMAZON,,,,
+Google,San Francisco,Tech,-50,invalid
+GOO gle,SF,Technology,,invalid
+google,,T3ch,one hundred,invalid
+Amazon,San Francisco,,one hundred,2023-01-01
+GOOGLE,SF,T3ch,one hundred,2023-01-01
+GOO gle,,Tech,,
+ AMAZON,San Francisco,,-50,2023-01-01
+ AMAZON,new york,,100,invalid
+google,NY,,100,invalid
+AMA zon,New York,T3ch,one hundred,invalid
+Google,NY,T3ch,100,Jan 1 2023
+GOOGLE,SF,,-50,invalid
+GOOGLE,SF,,,invalid
+AMA zon,SF,,-50,01/01/2023
+Google,San Francisco,tech,100,
+google,NY,tech,100,
+GOOGLE,NY,,100,Jan 1 2023
+AMA zon,San Francisco,tech,100,01/01/2023
+Amazon,San Francisco,Technology,-50,
+Google,San Francisco,Technology,-50,invalid
+AMA zon,NY,,100,01/01/2023
+AMA zon,SF,T3ch,,
+GOO gle,SF,,100,Jan 1 2023
+amazon,,T3ch,,01/01/2023
+google,San Francisco,,,Jan 1 2023
+Google,new york,tech,100,
+amazon,San Francisco,T3ch,-50,2023-01-01
+google,SF,,one hundred,Jan 1 2023
+GOO gle,new york,tech,-50,invalid
+amazon,,T3ch,,
+GOO gle,NY,Technology,100,Jan 1 2023
+GOO gle,,tech,100,invalid
+amazon,new york,Technology,100,01/01/2023
+Google,San Francisco,Tech,-50,
+AMA zon,SF,tech,100,Jan 1 2023
+Amazon,New York,tech,,01/01/2023
+GOO gle,SF,Tech,100,invalid
+amazon,San Francisco,,,2023-01-01
+ AMAZON,NY,,one hundred,invalid
+ AMAZON,SF,Technology,-50,2023-01-01
+google,new york,Technology,100,2023-01-01
+AMA zon,NY,,100,
+GOOGLE,New York,Tech,-50,invalid
+AMA zon,,Tech,one hundred,invalid
+Amazon,San Francisco,tech,one hundred,
+AMA zon,new york,,100,invalid
+amazon,New York,Tech,,01/01/2023
+ AMAZON,SF,,one hundred,2023-01-01
+amazon,new york,,100,
+amazon,NY,Technology,one hundred,invalid
+ AMAZON,new york,,,2023-01-01
+amazon,SF,Tech,one hundred,
+GOOGLE,SF,T3ch,100,Jan 1 2023
+ AMAZON,,,one hundred,Jan 1 2023
+GOOGLE,NY,Technology,one hundred,Jan 1 2023
+amazon,SF,Technology,100,01/01/2023
+GOOGLE,San Francisco,,100,invalid
+Google,new york,Tech,100,2023-01-01
+google,San Francisco,T3ch,,invalid
+GOOGLE,,Tech,,
+google,New York,Technology,-50,2023-01-01
+Amazon,SF,tech,-50,
+AMA zon,San Francisco,,one hundred,invalid
+google,new york,Technology,one hundred,
+google,SF,T3ch,one hundred,Jan 1 2023
+Google,,,,01/01/2023
+amazon,San Francisco,tech,100,01/01/2023
+AMA zon,New York,,100,2023-01-01
+google,SF,,,2023-01-01
+GOO gle,NY,tech,100,Jan 1 2023
+amazon,,T3ch,100,Jan 1 2023
+Amazon,New York,Tech,100,2023-01-01
+google,SF,,-50,Jan 1 2023
+Amazon,new york,,-50,2023-01-01
+AMA zon,new york,Tech,100,Jan 1 2023
+ AMAZON,new york,T3ch,100,Jan 1 2023
+AMA zon,San Francisco,Tech,-50,
+amazon,New York,,100,
+GOO gle,San Francisco,Technology,100,2023-01-01
+Google,New York,T3ch,,01/01/2023
+google,New York,T3ch,,Jan 1 2023
+Amazon,New York,T3ch,100,
+Google,NY,T3ch,100,invalid
+GOOGLE,,,100,Jan 1 2023
+Google,new york,,one hundred,
+ AMAZON,New York,T3ch,-50,2023-01-01
+Google,NY,T3ch,100,
+google,San Francisco,Technology,,invalid
+GOO gle,San Francisco,Technology,one hundred,invalid
+amazon,SF,T3ch,one hundred,Jan 1 2023
+Google,new york,T3ch,100,invalid
+google,,,,
+GOO gle,San Francisco,,,2023-01-01
+ AMAZON,NY,Technology,one hundred,01/01/2023
+Google,new york,T3ch,-50,invalid
+google,SF,T3ch,100,01/01/2023
+Amazon,,,-50,
+Google,new york,,-50,Jan 1 2023
+Google,San Francisco,tech,100,2023-01-01
+GOO gle,NY,tech,,2023-01-01
+GOOGLE,new york,,100,01/01/2023
+GOOGLE,,T3ch,-50,
+ AMAZON,SF,Tech,one hundred,invalid
+AMA zon,new york,tech,100,invalid
+Amazon,,T3ch,,2023-01-01
+ AMAZON,New York,T3ch,100,
+google,New York,tech,100,01/01/2023
+amazon,new york,Technology,,
+GOOGLE,,T3ch,,Jan 1 2023
+Google,San Francisco,,-50,Jan 1 2023
+google,new york,Technology,,01/01/2023
+amazon,NY,Technology,-50,invalid
+Amazon,San Francisco,T3ch,100,
+google,New York,tech,-50,2023-01-01
+google,new york,tech,-50,2023-01-01
+GOO gle,new york,,one hundred,01/01/2023
+Amazon,San Francisco,,one hundred,2023-01-01
+Google,SF,T3ch,one hundred,
+GOOGLE,SF,Technology,100,Jan 1 2023
+GOO gle,SF,T3ch,100,
+AMA zon,New York,Tech,-50,
+google,SF,tech,100,Jan 1 2023
+Amazon,,,100,2023-01-01
+GOO gle,San Francisco,Technology,one hundred,invalid
+GOO gle,NY,,one hundred,Jan 1 2023
+google,New York,,100,
+Google,New York,,-50,Jan 1 2023
+google,,,100,2023-01-01
+AMA zon,,Tech,100,
+GOOGLE,,tech,-50,invalid
+amazon,new york,,100,
+amazon,SF,Tech,,2023-01-01
+GOO gle,new york,Technology,100,01/01/2023
+google,new york,Tech,one hundred,2023-01-01
+amazon,new york,tech,-50,2023-01-01
+GOOGLE,new york,Technology,,2023-01-01
+ AMAZON,NY,Tech,100,01/01/2023
+google,NY,,-50,01/01/2023
+GOOGLE,SF,tech,100,2023-01-01
+AMA zon,New York,Technology,100,2023-01-01
+ AMAZON,SF,T3ch,one hundred,invalid
+GOOGLE,San Francisco,T3ch,100,
+Amazon,,,,invalid
+google,new york,T3ch,one hundred,invalid
+Google,,,,
+ AMAZON,new york,,,Jan 1 2023
+amazon,NY,,100,01/01/2023
+AMA zon,new york,Tech,100,
+ AMAZON,SF,Tech,,
+Amazon,,Tech,-50,2023-01-01
+GOO gle,new york,,-50,
+GOO gle,San Francisco,,100,2023-01-01
+ AMAZON,NY,T3ch,one hundred,01/01/2023
+ AMAZON,,Tech,one hundred,Jan 1 2023
+amazon,New York,tech,-50,01/01/2023
+Google,,Tech,100,
+GOO gle,new york,Technology,,
+Google,NY,,100,
+Amazon,,,100,invalid
+GOOGLE,San Francisco,Tech,one hundred,2023-01-01
+google,,tech,100,Jan 1 2023
+ AMAZON,New York,Technology,,
+google,New York,,,
+google,new york,tech,-50,2023-01-01
+ AMAZON,NY,T3ch,100,
+Amazon,San Francisco,Technology,,01/01/2023
+google,San Francisco,Technology,-50,invalid
+GOO gle,San Francisco,tech,100,01/01/2023
+Google,SF,,one hundred,2023-01-01
+AMA zon,SF,Technology,one hundred,invalid
+google,New York,tech,100,2023-01-01
+GOO gle,NY,Tech,100,01/01/2023
+GOO gle,San Francisco,Tech,-50,01/01/2023
+Amazon,New York,Tech,one hundred,
+google,SF,Tech,-50,Jan 1 2023
+GOOGLE,San Francisco,Technology,one hundred,01/01/2023
+GOOGLE,San Francisco,Technology,100,Jan 1 2023
+google,New York,Tech,-50,invalid
+Google,new york,,,
+Google,New York,,-50,Jan 1 2023
+google,SF,T3ch,-50,Jan 1 2023
+Google,new york,,-50,2023-01-01
+google,NY,Tech,,2023-01-01
+google,NY,tech,,Jan 1 2023
+Google,New York,tech,100,01/01/2023
+Amazon,new york,,one hundred,
+amazon,NY,Technology,100,invalid
+Google,,Technology,100,2023-01-01
+GOO gle,New York,Tech,one hundred,2023-01-01
+AMA zon,San Francisco,,100,Jan 1 2023
+Amazon,New York,,one hundred,01/01/2023
+AMA zon,New York,tech,-50,01/01/2023
+Google,NY,Technology,100,2023-01-01
+ AMAZON,New York,,,01/01/2023
+GOOGLE,new york,,,2023-01-01
+ AMAZON,new york,Technology,100,
+ AMAZON,NY,Tech,100,invalid
+GOOGLE,New York,Tech,100,01/01/2023
+google,NY,Technology,100,01/01/2023
+ AMAZON,,T3ch,,2023-01-01
+ AMAZON,SF,,one hundred,2023-01-01
+GOO gle,SF,,-50,Jan 1 2023
+Google,San Francisco,tech,-50,
+amazon,New York,,-50,
+GOO gle,,tech,one hundred,2023-01-01
+ AMAZON,NY,T3ch,-50,01/01/2023
+Google,new york,T3ch,one hundred,Jan 1 2023
+Amazon,NY,,,
+GOOGLE,new york,Tech,one hundred,
+Google,New York,Technology,100,2023-01-01
+google,,,,Jan 1 2023
+ AMAZON,SF,Tech,100,
+GOO gle,SF,Tech,,2023-01-01
+google,,Technology,100,invalid
+GOOGLE,new york,,100,Jan 1 2023
+Amazon,SF,tech,one hundred,Jan 1 2023
+Amazon,New York,Tech,,2023-01-01
+Google,new york,Technology,one hundred,
+google,San Francisco,tech,-50,
+Amazon,SF,Technology,-50,invalid
+amazon,NY,,100,invalid
+GOO gle,SF,,one hundred,Jan 1 2023
+Google,new york,T3ch,-50,
+AMA zon,new york,T3ch,,Jan 1 2023
+google,New York,,,
+Google,San Francisco,Technology,100,01/01/2023
+Google,New York,tech,,Jan 1 2023
+AMA zon,NY,tech,,
+ AMAZON,new york,T3ch,one hundred,2023-01-01
+GOOGLE,New York,,one hundred,
+google,New York,Tech,,
+amazon,new york,T3ch,100,
+AMA zon,NY,tech,one hundred,invalid
+amazon,,T3ch,100,2023-01-01
+AMA zon,San Francisco,T3ch,,01/01/2023
+ AMAZON,New York,Tech,one hundred,
+AMA zon,New York,,-50,Jan 1 2023
+google,San Francisco,tech,,invalid
+Google,New York,T3ch,100,01/01/2023
+google,,tech,,01/01/2023
+Amazon,NY,T3ch,100,01/01/2023
+ AMAZON,San Francisco,,,
+google,new york,Tech,,01/01/2023
+AMA zon,new york,,one hundred,2023-01-01
+GOO gle,San Francisco,,100,invalid
+GOOGLE,New York,T3ch,100,invalid
+Amazon,San Francisco,,100,
+amazon,New York,tech,-50,
+AMA zon,,tech,100,01/01/2023
+ AMAZON,SF,,-50,01/01/2023
+GOOGLE,,,-50,
+GOO gle,New York,Technology,,invalid
+Amazon,San Francisco,Technology,100,2023-01-01
+google,new york,Technology,100,invalid
+Amazon,San Francisco,tech,100,invalid
+AMA zon,NY,,100,01/01/2023
+AMA zon,NY,T3ch,-50,invalid
+GOOGLE,,Technology,-50,Jan 1 2023
+google,SF,,,2023-01-01
+Amazon,NY,,,Jan 1 2023
+ AMAZON,new york,,100,invalid
+Amazon,San Francisco,tech,-50,2023-01-01
+AMA zon,New York,tech,one hundred,2023-01-01
+GOOGLE,,T3ch,100,Jan 1 2023
+ AMAZON,new york,,100,
+AMA zon,New York,Technology,100,Jan 1 2023
+AMA zon,NY,T3ch,100,2023-01-01
+ AMAZON,SF,Technology,100,01/01/2023
+amazon,NY,Technology,one hundred,Jan 1 2023
+google,NY,,one hundred,Jan 1 2023
+google,San Francisco,tech,100,
+GOOGLE,San Francisco,Tech,,invalid
+AMA zon,SF,,-50,
+GOOGLE,San Francisco,T3ch,,01/01/2023
+google,new york,,one hundred,Jan 1 2023
+amazon,NY,Technology,100,
+GOOGLE,San Francisco,Tech,,invalid
+AMA zon,SF,,,
+Amazon,NY,tech,100,Jan 1 2023
+Amazon,San Francisco,,100,2023-01-01
+ AMAZON,NY,T3ch,one hundred,Jan 1 2023
+ AMAZON,new york,tech,,invalid
+GOOGLE,,,one hundred,invalid
+AMA zon,SF,tech,-50,01/01/2023
+AMA zon,SF,,100,
+AMA zon,NY,Tech,100,01/01/2023
+Google,SF,,100,2023-01-01
+Amazon,new york,tech,100,01/01/2023
+ AMAZON,,tech,100,Jan 1 2023
+Google,,T3ch,100,invalid
+GOO gle,San Francisco,,100,2023-01-01
+AMA zon,New York,Tech,100,2023-01-01
+ AMAZON,NY,Tech,,Jan 1 2023
+google,SF,Technology,one hundred,01/01/2023
+Google,New York,Technology,-50,Jan 1 2023
+Amazon,San Francisco,T3ch,,2023-01-01
+ AMAZON,,,-50,invalid
+amazon,New York,Tech,100,
+Google,San Francisco,Tech,100,2023-01-01
+Amazon,New York,tech,-50,Jan 1 2023
+GOOGLE,San Francisco,,100,2023-01-01
+google,SF,tech,100,Jan 1 2023
+GOO gle,,Technology,100,invalid
+Google,NY,Tech,,invalid
+amazon,,,100,01/01/2023
+GOO gle,new york,Technology,,2023-01-01
+ AMAZON,NY,,-50,invalid
+amazon,San Francisco,,-50,invalid
+google,New York,,100,Jan 1 2023
+Amazon,SF,T3ch,one hundred,Jan 1 2023
+ AMAZON,San Francisco,tech,100,invalid
+Amazon,NY,,-50,invalid
+Amazon,new york,T3ch,100,
+AMA zon,SF,Tech,one hundred,Jan 1 2023
+AMA zon,NY,T3ch,100,Jan 1 2023
+Google,New York,Technology,-50,invalid
+Google,San Francisco,,100,invalid
+Google,,Technology,one hundred,2023-01-01
+amazon,,Technology,one hundred,01/01/2023
+Amazon,,Technology,100,invalid
+Google,SF,,one hundred,
+ AMAZON,New York,,100,Jan 1 2023
+Google,new york,Tech,one hundred,01/01/2023
+Amazon,new york,T3ch,100,
+amazon,New York,Tech,100,
+amazon,SF,Technology,100,01/01/2023
+Amazon,new york,,-50,2023-01-01
+Google,,tech,100,01/01/2023
+amazon,New York,,,invalid
+amazon,new york,,100,
+ AMAZON,new york,Tech,-50,2023-01-01
+AMA zon,SF,T3ch,,
+Google,San Francisco,T3ch,-50,invalid
+ AMAZON,,,,invalid
+Amazon,San Francisco,,100,2023-01-01
+AMA zon,new york,Technology,100,invalid
+amazon,new york,Tech,one hundred,invalid
+AMA zon,New York,T3ch,-50,01/01/2023
+Amazon,SF,Tech,one hundred,01/01/2023
+ AMAZON,SF,tech,-50,
+google,San Francisco,Technology,-50,01/01/2023
+GOOGLE,NY,Tech,100,2023-01-01
+Google,San Francisco,Technology,-50,
+ AMAZON,NY,Technology,one hundred,01/01/2023
+GOOGLE,SF,,100,01/01/2023
+AMA zon,SF,,100,01/01/2023
+ AMAZON,,,one hundred,invalid
+amazon,San Francisco,,one hundred,2023-01-01
+Amazon,New York,,100,2023-01-01
+ AMAZON,NY,,one hundred,
+AMA zon,NY,,one hundred,invalid
+GOO gle,,,100,2023-01-01
+AMA zon,,T3ch,-50,2023-01-01
+GOO gle,,Tech,,Jan 1 2023
+GOOGLE,,,one hundred,2023-01-01
+ AMAZON,new york,,100,2023-01-01
+amazon,New York,,100,01/01/2023
+amazon,SF,tech,100,invalid
+AMA zon,San Francisco,Tech,100,2023-01-01
+amazon,SF,Technology,-50,2023-01-01
+GOOGLE,NY,tech,-50,
+amazon,,T3ch,one hundred,invalid
+Amazon,new york,,100,invalid
+Google,NY,Tech,-50,
+GOO gle,SF,,-50,2023-01-01
+ AMAZON,new york,Tech,100,invalid
+AMA zon,NY,,-50,
+GOO gle,NY,Technology,,2023-01-01
+GOO gle,New York,Technology,one hundred,01/01/2023
+AMA zon,San Francisco,,100,Jan 1 2023
+ AMAZON,New York,T3ch,-50,Jan 1 2023
+GOOGLE,New York,,one hundred,Jan 1 2023
+GOO gle,New York,T3ch,100,
+Amazon,New York,Tech,100,Jan 1 2023
+GOOGLE,New York,Technology,100,
+Google,SF,Tech,,
+GOO gle,San Francisco,Tech,-50,2023-01-01
+Amazon,NY,T3ch,,invalid
+GOO gle,NY,Technology,,Jan 1 2023
+ AMAZON,,Technology,100,Jan 1 2023
+Amazon,new york,Tech,100,2023-01-01
+GOOGLE,,,one hundred,
+Google,new york,T3ch,-50,Jan 1 2023
+ AMAZON,SF,tech,100,01/01/2023
+GOOGLE,SF,T3ch,,
+GOOGLE,New York,Technology,one hundred,invalid
+AMA zon,new york,,one hundred,
+ AMAZON,San Francisco,,one hundred,
+Google,SF,,-50,invalid
+AMA zon,NY,Tech,-50,
+GOO gle,new york,T3ch,100,Jan 1 2023
+GOOGLE,New York,Technology,one hundred,
+amazon,San Francisco,Technology,100,
+AMA zon,New York,Technology,100,
+ AMAZON,NY,tech,-50,01/01/2023
+ AMAZON,San Francisco,Technology,,
+GOOGLE,SF,,,01/01/2023
+google,NY,Tech,,invalid
+GOO gle,new york,tech,one hundred,2023-01-01
+google,,Technology,,invalid
+google,SF,,-50,01/01/2023
+Amazon,new york,,-50,
+google,new york,,100,2023-01-01
+AMA zon,SF,tech,100,2023-01-01
+GOO gle,SF,Tech,100,01/01/2023
+google,San Francisco,tech,one hundred,Jan 1 2023
+amazon,New York,,,
+Google,new york,tech,100,01/01/2023
+AMA zon,New York,T3ch,100,
+google,NY,tech,-50,2023-01-01
+Amazon,SF,,100,invalid
+GOOGLE,NY,,-50,2023-01-01
+google,new york,,one hundred,invalid
+GOO gle,new york,T3ch,,2023-01-01
+GOOGLE,,Technology,,2023-01-01
+GOOGLE,new york,,,invalid
+amazon,new york,Technology,100,
+GOOGLE,new york,T3ch,100,
+ AMAZON,NY,T3ch,100,invalid
+GOOGLE,NY,T3ch,100,
+Google,New York,T3ch,-50,01/01/2023
+Amazon,New York,,100,
+ AMAZON,new york,Tech,-50,invalid
+google,new york,Tech,,Jan 1 2023
+GOO gle,,T3ch,100,invalid
+amazon,SF,T3ch,one hundred,invalid
+GOO gle,San Francisco,Tech,100,Jan 1 2023
+Google,New York,Technology,,Jan 1 2023
+AMA zon,,,100,2023-01-01
+GOOGLE,SF,tech,one hundred,Jan 1 2023
+Amazon,new york,,100,
+google,NY,Tech,one hundred,01/01/2023
+AMA zon,NY,T3ch,-50,invalid
+GOO gle,SF,tech,one hundred,Jan 1 2023
+ AMAZON,,tech,100,invalid
+Google,new york,,100,01/01/2023
+AMA zon,NY,Technology,100,01/01/2023
+AMA zon,New York,,100,01/01/2023
+GOO gle,New York,Technology,,
+AMA zon,,T3ch,100,2023-01-01
+GOOGLE,,,100,
+Amazon,,tech,100,2023-01-01
+GOO gle,San Francisco,Tech,100,invalid
+GOO gle,New York,,100,Jan 1 2023
+GOO gle,NY,T3ch,-50,Jan 1 2023
+AMA zon,,tech,,2023-01-01
+GOO gle,new york,T3ch,-50,
+ AMAZON,SF,,,2023-01-01
+amazon,San Francisco,Tech,one hundred,2023-01-01
+Amazon,New York,T3ch,,invalid
+GOO gle,SF,Tech,one hundred,2023-01-01
+Amazon,SF,,100,2023-01-01
+Google,SF,tech,one hundred,Jan 1 2023
+ AMAZON,SF,Technology,one hundred,2023-01-01
+GOOGLE,New York,Tech,-50,01/01/2023
+GOOGLE,new york,T3ch,100,
+amazon,SF,tech,100,01/01/2023
+Google,New York,Technology,one hundred,2023-01-01
+Google,San Francisco,tech,100,
+Google,New York,T3ch,-50,invalid
+Amazon,new york,tech,,01/01/2023
+ AMAZON,San Francisco,,-50,
+GOOGLE,NY,,one hundred,Jan 1 2023
+Google,San Francisco,tech,,Jan 1 2023
+Amazon,SF,,one hundred,2023-01-01
+amazon,,Technology,one hundred,2023-01-01
+Google,NY,tech,100,01/01/2023
+google,,Technology,-50,
+AMA zon,new york,tech,100,
+AMA zon,,,100,01/01/2023
+Google,NY,Technology,,2023-01-01
+GOO gle,,Technology,one hundred,
+GOO gle,NY,Technology,one hundred,Jan 1 2023
+ AMAZON,,,-50,
+Google,,,-50,invalid
+Google,New York,Tech,one hundred,invalid
+google,NY,,one hundred,invalid
+google,SF,tech,100,
+GOOGLE,NY,,100,2023-01-01
+Amazon,new york,Tech,-50,2023-01-01
+GOO gle,San Francisco,tech,100,
+amazon,New York,tech,100,2023-01-01
+amazon,San Francisco,tech,-50,01/01/2023
+GOO gle,New York,T3ch,one hundred,01/01/2023
+amazon,San Francisco,tech,100,2023-01-01
+google,New York,tech,one hundred,
+Google,new york,Technology,one hundred,01/01/2023
+GOO gle,SF,T3ch,,Jan 1 2023
+AMA zon,New York,T3ch,one hundred,Jan 1 2023
+Google,,,100,Jan 1 2023
+AMA zon,New York,T3ch,one hundred,Jan 1 2023
+GOO gle,San Francisco,Tech,,Jan 1 2023
+amazon,San Francisco,,100,invalid
+Amazon,New York,Tech,-50,Jan 1 2023
+GOOGLE,San Francisco,T3ch,,invalid
+amazon,SF,tech,100,
+GOO gle,San Francisco,Tech,100,2023-01-01
+Google,,T3ch,,Jan 1 2023
+GOO gle,New York,Technology,one hundred,
+Amazon,San Francisco,Technology,,Jan 1 2023
+AMA zon,NY,T3ch,one hundred,Jan 1 2023
+Amazon,,Tech,100,
+AMA zon,new york,,100,Jan 1 2023
+GOO gle,,tech,-50,Jan 1 2023
+GOOGLE,new york,tech,,invalid
+amazon,New York,,,01/01/2023
+amazon,New York,Tech,100,01/01/2023
+GOO gle,San Francisco,T3ch,100,invalid
+google,,Tech,one hundred,01/01/2023
+GOOGLE,New York,T3ch,100,2023-01-01
+Amazon,NY,tech,-50,invalid
+ AMAZON,new york,,100,2023-01-01
+AMA zon,New York,Technology,-50,2023-01-01
+Google,NY,Tech,100,01/01/2023
+google,SF,,100,
+ AMAZON,NY,,,invalid
+GOO gle,new york,,,Jan 1 2023
+google,,Technology,one hundred,2023-01-01
+ AMAZON,New York,T3ch,-50,2023-01-01
+Amazon,,Technology,100,invalid
+ AMAZON,NY,,100,invalid
+ AMAZON,SF,Technology,,01/01/2023
+GOO gle,,Technology,100,Jan 1 2023
+amazon,new york,T3ch,100,Jan 1 2023
+Google,SF,Tech,-50,
+GOOGLE,San Francisco,T3ch,-50,01/01/2023
+ AMAZON,San Francisco,,,invalid
+GOO gle,New York,,100,invalid
+Amazon,NY,T3ch,,01/01/2023
+AMA zon,San Francisco,tech,one hundred,Jan 1 2023
+amazon,,T3ch,one hundred,invalid
+GOOGLE,new york,,,01/01/2023
+GOOGLE,new york,T3ch,-50,
+amazon,San Francisco,tech,,Jan 1 2023
+Amazon,,Tech,100,Jan 1 2023
+GOOGLE,San Francisco,,100,Jan 1 2023
+Google,NY,,-50,Jan 1 2023
+GOO gle,San Francisco,Technology,100,Jan 1 2023
+Google,,Tech,-50,2023-01-01
+amazon,San Francisco,T3ch,100,2023-01-01
+amazon,,T3ch,100,2023-01-01
+google,new york,Tech,,2023-01-01
+amazon,SF,T3ch,100,
+GOO gle,San Francisco,tech,100,2023-01-01
+Amazon,New York,,,invalid
+GOOGLE,,Technology,,01/01/2023
+google,,tech,one hundred,invalid
+google,New York,tech,,invalid
+Amazon,,T3ch,-50,01/01/2023
+Amazon,NY,Tech,100,Jan 1 2023
+ AMAZON,San Francisco,tech,-50,
+AMA zon,,Technology,100,01/01/2023
+ AMAZON,NY,T3ch,-50,
+GOO gle,SF,Tech,-50,invalid
+amazon,New York,T3ch,100,Jan 1 2023
+ AMAZON,New York,T3ch,-50,01/01/2023
+google,,,100,01/01/2023
+Google,new york,,one hundred,
+GOO gle,New York,,100,Jan 1 2023
+GOOGLE,,,one hundred,invalid
+google,SF,tech,,
+google,new york,,one hundred,01/01/2023
+GOOGLE,,Technology,one hundred,Jan 1 2023
+google,New York,,-50,Jan 1 2023
+amazon,New York,,,
+GOO gle,new york,T3ch,100,invalid
+ AMAZON,new york,Technology,100,
+google,San Francisco,,-50,01/01/2023
+google,SF,Technology,-50,01/01/2023
+GOO gle,new york,T3ch,100,invalid
+GOO gle,,T3ch,one hundred,
+Google,NY,Technology,-50,2023-01-01
+AMA zon,new york,T3ch,-50,2023-01-01
+GOOGLE,New York,T3ch,one hundred,
+GOO gle,,,-50,01/01/2023
+amazon,,Tech,one hundred,01/01/2023
+GOO gle,New York,,,
+google,San Francisco,T3ch,100,Jan 1 2023
+Amazon,,,100,invalid
+amazon,,T3ch,100,2023-01-01
+amazon,new york,,one hundred,
+google,San Francisco,tech,one hundred,01/01/2023
+Amazon,,tech,one hundred,
+google,NY,Tech,,invalid
+GOO gle,SF,tech,-50,invalid
+amazon,New York,Tech,one hundred,
+amazon,NY,tech,one hundred,invalid
+amazon,,tech,100,
+AMA zon,New York,tech,100,
+Google,new york,,,01/01/2023
+Google,SF,Tech,100,01/01/2023
+GOO gle,SF,Tech,one hundred,2023-01-01
+Amazon,NY,Technology,-50,invalid
+GOO gle,,Technology,one hundred,01/01/2023
+AMA zon,SF,,one hundred,01/01/2023
+ AMAZON,new york,Tech,100,
+AMA zon,NY,,100,
+AMA zon,,,100,2023-01-01
+GOO gle,San Francisco,Technology,100,
+ AMAZON,,Technology,100,01/01/2023
+google,SF,T3ch,100,2023-01-01
+Google,new york,Technology,100,invalid
+google,SF,tech,one hundred,2023-01-01
+Amazon,,Tech,100,2023-01-01
+amazon,San Francisco,,one hundred,invalid
+Google,new york,Technology,,2023-01-01
+AMA zon,New York,Tech,one hundred,Jan 1 2023
+google,New York,Tech,one hundred,01/01/2023
+google,SF,Tech,100,
+ AMAZON,San Francisco,tech,100,
+ AMAZON,,,100,
+GOO gle,NY,T3ch,-50,01/01/2023
+amazon,NY,,-50,
+GOO gle,new york,Technology,100,2023-01-01
+google,new york,tech,one hundred,invalid
+GOOGLE,SF,Tech,100,
+Google,NY,Technology,-50,
+GOO gle,NY,tech,one hundred,01/01/2023
+GOOGLE,San Francisco,tech,100,01/01/2023
+google,,,-50,01/01/2023
+GOO gle,NY,,100,Jan 1 2023
+GOO gle,San Francisco,,100,
+AMA zon,SF,,,2023-01-01
+Amazon,San Francisco,,100,01/01/2023
+AMA zon,New York,tech,,invalid
+google,New York,Tech,100,
+Amazon,SF,Tech,one hundred,invalid
+GOO gle,NY,T3ch,100,
+Google,new york,,-50,invalid
+GOO gle,new york,,,Jan 1 2023
+ AMAZON,new york,,100,Jan 1 2023
+AMA zon,New York,,-50,
+Amazon,new york,Tech,-50,2023-01-01
+GOOGLE,New York,tech,100,
+amazon,new york,,one hundred,01/01/2023
+ AMAZON,,tech,-50,Jan 1 2023
+amazon,,T3ch,,01/01/2023
+Amazon,San Francisco,Technology,100,invalid
+google,NY,,-50,invalid
+Google,New York,Technology,100,01/01/2023
+amazon,,,100,invalid
+AMA zon,NY,T3ch,-50,2023-01-01
+Amazon,new york,T3ch,-50,invalid
+AMA zon,,Technology,100,
+AMA zon,new york,tech,100,Jan 1 2023
+GOO gle,new york,,,01/01/2023
+ AMAZON,,,,invalid
+amazon,NY,,,Jan 1 2023
+Google,New York,,100,invalid
+google,new york,,100,invalid
+amazon,New York,tech,one hundred,invalid
+amazon,new york,T3ch,-50,Jan 1 2023
+Amazon,NY,T3ch,100,Jan 1 2023
+GOOGLE,new york,T3ch,-50,invalid
+Amazon,,Tech,,
+AMA zon,SF,tech,100,Jan 1 2023
+Google,SF,tech,100,
+ AMAZON,,T3ch,one hundred,Jan 1 2023
+Google,San Francisco,,100,invalid
+Amazon,San Francisco,,100,
+GOOGLE,SF,Technology,one hundred,01/01/2023
+amazon,new york,,one hundred,invalid
+google,SF,T3ch,one hundred,2023-01-01
+google,New York,T3ch,,01/01/2023
+ AMAZON,,,-50,Jan 1 2023
+Amazon,San Francisco,Technology,100,2023-01-01
+AMA zon,NY,Technology,-50,
+Google,NY,Tech,100,2023-01-01
+ AMAZON,new york,,100,Jan 1 2023
+GOO gle,SF,,-50,Jan 1 2023
+google,NY,,,2023-01-01
+AMA zon,SF,Tech,one hundred,invalid
+AMA zon,,Tech,100,
+GOOGLE,SF,,,01/01/2023
+GOOGLE,New York,,-50,01/01/2023
+ AMAZON,NY,Tech,-50,2023-01-01
+google,,Tech,,invalid
+amazon,new york,,-50,
+Amazon,NY,Technology,,invalid
+ AMAZON,,,,Jan 1 2023
+Amazon,San Francisco,,-50,
+Google,new york,Tech,,Jan 1 2023
+AMA zon,SF,T3ch,,01/01/2023
+ AMAZON,SF,,100,
+amazon,San Francisco,tech,100,Jan 1 2023
+Google,SF,Technology,100,Jan 1 2023
+GOOGLE,,tech,100,2023-01-01
+google,SF,Technology,,01/01/2023
+google,,tech,-50,01/01/2023
+amazon,SF,T3ch,-50,Jan 1 2023
+ AMAZON,,Tech,-50,2023-01-01
+GOO gle,San Francisco,Tech,100,Jan 1 2023
+ AMAZON,SF,Tech,-50,
+Google,new york,tech,-50,Jan 1 2023
+AMA zon,SF,tech,-50,invalid
+google,,Tech,100,
+ AMAZON,San Francisco,Technology,100,
+Amazon,San Francisco,T3ch,100,
+google,,Tech,100,
+ AMAZON,,,-50,
+GOOGLE,SF,,-50,01/01/2023
+AMA zon,new york,,100,01/01/2023
+Amazon,,,100,2023-01-01
+ AMAZON,NY,tech,100,2023-01-01
+Amazon,,T3ch,100,2023-01-01
+GOO gle,,,,
+google,San Francisco,,one hundred,invalid
+Amazon,San Francisco,,100,invalid
+GOOGLE,NY,tech,100,01/01/2023
+GOO gle,NY,,one hundred,Jan 1 2023
+GOO gle,,Tech,100,
+AMA zon,new york,tech,one hundred,2023-01-01
+Amazon,NY,tech,100,invalid
+GOO gle,New York,,one hundred,Jan 1 2023
+GOO gle,San Francisco,,-50,invalid
+GOOGLE,new york,Tech,one hundred,Jan 1 2023
+GOO gle,San Francisco,,100,
+Google,SF,,one hundred,invalid
+GOOGLE,new york,Tech,100,
+GOOGLE,San Francisco,tech,,invalid
+GOOGLE,NY,tech,one hundred,2023-01-01
+amazon,new york,T3ch,100,invalid
+Amazon,,Technology,one hundred,Jan 1 2023
+AMA zon,San Francisco,Technology,100,2023-01-01
+Amazon,San Francisco,,100,invalid
+amazon,,tech,,01/01/2023
+Google,new york,,100,
+AMA zon,San Francisco,,100,invalid
+Google,NY,tech,one hundred,invalid
+Amazon,New York,,100,01/01/2023
+AMA zon,NY,,-50,
+AMA zon,new york,tech,one hundred,
+amazon,new york,,100,invalid
+ AMAZON,New York,Technology,,
+google,NY,Tech,100,invalid
+Google,New York,,100,Jan 1 2023
+amazon,New York,,100,invalid
+amazon,NY,T3ch,100,2023-01-01
+Amazon,new york,tech,100,2023-01-01
+GOOGLE,San Francisco,,-50,invalid
+AMA zon,SF,,one hundred,Jan 1 2023
+GOOGLE,San Francisco,,100,01/01/2023
+Amazon,new york,,one hundred,invalid
+ AMAZON,new york,Tech,100,Jan 1 2023
+amazon,New York,T3ch,100,
+google,new york,Technology,100,2023-01-01
+google,,Tech,one hundred,invalid
+AMA zon,SF,,100,01/01/2023
+amazon,NY,,-50,
+Amazon,,,-50,Jan 1 2023
+google,New York,,,
+Google,New York,,one hundred,2023-01-01
+GOOGLE,San Francisco,Technology,100,01/01/2023
+Amazon,New York,tech,100,01/01/2023
+google,,,-50,invalid
+amazon,SF,tech,100,Jan 1 2023
+GOO gle,,Technology,,Jan 1 2023
+AMA zon,NY,Technology,one hundred,01/01/2023
+AMA zon,New York,Technology,one hundred,01/01/2023
+Google,San Francisco,,,invalid
+google,,Tech,100,01/01/2023
+Amazon,NY,tech,100,01/01/2023
+Google,New York,,100,Jan 1 2023
+google,San Francisco,Technology,100,
+AMA zon,,,,
+google,new york,,-50,2023-01-01
+google,New York,,,01/01/2023
+ AMAZON,,Technology,100,invalid
+amazon,,tech,100,01/01/2023
+amazon,SF,,-50,01/01/2023
+ AMAZON,NY,T3ch,-50,invalid
+amazon,SF,Technology,,Jan 1 2023
+google,SF,Tech,100,Jan 1 2023
+Amazon,,tech,one hundred,01/01/2023
+AMA zon,San Francisco,Tech,-50,01/01/2023
+Amazon,,,-50,01/01/2023
+GOO gle,SF,T3ch,100,
+ AMAZON,SF,Tech,100,
+AMA zon,SF,tech,100,invalid
+Google,new york,,100,2023-01-01
+Google,New York,Technology,one hundred,Jan 1 2023
+amazon,NY,T3ch,-50,2023-01-01
+AMA zon,SF,,-50,2023-01-01
+Google,NY,Technology,one hundred,2023-01-01
+ AMAZON,,Tech,one hundred,Jan 1 2023
+ AMAZON,SF,Technology,100,Jan 1 2023
+amazon,SF,,,2023-01-01
+Amazon,,Technology,-50,01/01/2023
+Google,SF,,one hundred,01/01/2023
+Amazon,new york,Technology,100,Jan 1 2023
+AMA zon,new york,,100,
+ AMAZON,,,100,2023-01-01
+Google,New York,Technology,,invalid
+google,SF,Technology,100,2023-01-01
+ AMAZON,new york,Tech,one hundred,invalid
+GOOGLE,NY,Tech,one hundred,
+GOOGLE,New York,Technology,one hundred,invalid
+AMA zon,San Francisco,T3ch,-50,2023-01-01
+amazon,San Francisco,Tech,-50,
+google,New York,Technology,100,
+GOOGLE,new york,T3ch,-50,invalid
+GOOGLE,San Francisco,Technology,,01/01/2023
+google,,tech,one hundred,2023-01-01
+AMA zon,SF,tech,one hundred,
+GOO gle,New York,,100,2023-01-01
+GOOGLE,new york,Technology,one hundred,Jan 1 2023
+Google,NY,T3ch,100,2023-01-01
+google,,Technology,100,invalid
+GOO gle,new york,,100,invalid
+GOOGLE,,Technology,one hundred,invalid
+google,new york,Tech,100,Jan 1 2023
+google,San Francisco,tech,one hundred,Jan 1 2023
+GOOGLE,,Tech,,2023-01-01
+GOO gle,San Francisco,Technology,-50,
+GOO gle,NY,,-50,01/01/2023
+amazon,New York,Tech,100,2023-01-01
+google,SF,tech,one hundred,2023-01-01
+AMA zon,New York,,one hundred,2023-01-01
+GOO gle,NY,tech,one hundred,
+amazon,San Francisco,Tech,100,2023-01-01
+Amazon,SF,T3ch,100,invalid
+GOO gle,new york,,,01/01/2023
+GOOGLE,New York,Tech,100,2023-01-01
+GOOGLE,New York,Technology,100,01/01/2023
+ AMAZON,New York,tech,,01/01/2023
+ AMAZON,new york,T3ch,-50,Jan 1 2023
+amazon,New York,,,01/01/2023
+amazon,San Francisco,,100,01/01/2023
+GOOGLE,new york,,-50,Jan 1 2023
+AMA zon,,T3ch,one hundred,invalid
+Google,,T3ch,100,01/01/2023
+GOOGLE,New York,Technology,-50,2023-01-01
+amazon,San Francisco,Technology,,2023-01-01
+AMA zon,,,one hundred,01/01/2023
+Google,New York,tech,,
+Google,San Francisco,T3ch,-50,
+Amazon,San Francisco,,100,01/01/2023
+ AMAZON,San Francisco,,,Jan 1 2023
+amazon,New York,,-50,Jan 1 2023
+GOOGLE,,tech,-50,2023-01-01
+Amazon,SF,,-50,2023-01-01
+google,,T3ch,100,01/01/2023
+AMA zon,NY,Technology,100,
+Google,new york,T3ch,one hundred,2023-01-01
+Google,New York,Technology,100,invalid
+Amazon,new york,Tech,100,invalid
+GOOGLE,New York,,,Jan 1 2023
+Google,San Francisco,,100,Jan 1 2023
+amazon,new york,,100,
+AMA zon,New York,Technology,100,invalid
+ AMAZON,,,100,01/01/2023
+AMA zon,new york,,one hundred,
+AMA zon,SF,Tech,100,Jan 1 2023
+GOO gle,San Francisco,Technology,,01/01/2023
+AMA zon,new york,Tech,100,invalid
+GOOGLE,,Technology,one hundred,
+GOO gle,New York,tech,100,
+Amazon,NY,Tech,,01/01/2023
+GOO gle,New York,tech,100,Jan 1 2023
+Amazon,NY,T3ch,,
+Google,new york,Technology,-50,01/01/2023
+Amazon,San Francisco,Tech,100,01/01/2023
+Google,SF,tech,-50,invalid
+GOOGLE,New York,,-50,Jan 1 2023
+amazon,new york,,,2023-01-01
+ AMAZON,NY,T3ch,one hundred,invalid
+Amazon,new york,Technology,100,01/01/2023
+amazon,San Francisco,Technology,100,invalid
+google,,tech,100,2023-01-01
+ AMAZON,,Technology,100,Jan 1 2023
+Google,New York,Technology,,
+google,NY,T3ch,-50,
+Amazon,NY,Technology,,Jan 1 2023
+google,SF,,100,
+amazon,,,one hundred,Jan 1 2023
+Google,,Technology,,2023-01-01
+google,New York,Technology,-50,Jan 1 2023
+GOOGLE,new york,T3ch,100,01/01/2023
+GOO gle,New York,tech,one hundred,invalid
+Google,New York,tech,,01/01/2023
+GOOGLE,New York,Tech,,invalid
+ AMAZON,new york,Technology,one hundred,01/01/2023
+Google,SF,tech,one hundred,01/01/2023
+Google,NY,T3ch,100,
+GOO gle,SF,T3ch,100,Jan 1 2023
+GOO gle,SF,,one hundred,Jan 1 2023
+google,NY,Technology,-50,
+Amazon,New York,,one hundred,invalid
+Google,NY,tech,100,invalid
+GOOGLE,New York,,one hundred,01/01/2023
+ AMAZON,SF,Tech,100,
+GOO gle,new york,Technology,one hundred,Jan 1 2023
+GOO gle,San Francisco,tech,100,
+google,San Francisco,,-50,invalid
+ AMAZON,SF,T3ch,-50,Jan 1 2023
+google,new york,,100,invalid
+GOOGLE,New York,Technology,-50,invalid
+GOOGLE,New York,Technology,100,01/01/2023
+GOO gle,SF,,100,
+GOOGLE,San Francisco,Technology,one hundred,Jan 1 2023
+ AMAZON,NY,Tech,,Jan 1 2023
+GOO gle,new york,,one hundred,
+amazon,San Francisco,,-50,2023-01-01
+GOOGLE,NY,T3ch,100,
+GOO gle,NY,Technology,-50,invalid
+GOOGLE,new york,,100,invalid
+Google,new york,,100,2023-01-01
+Google,San Francisco,T3ch,100,invalid
+amazon,NY,Technology,-50,Jan 1 2023
+Google,new york,,100,Jan 1 2023
+AMA zon,NY,Tech,one hundred,2023-01-01
+GOO gle,NY,Tech,one hundred,2023-01-01
+GOO gle,SF,,100,invalid
+Amazon,New York,T3ch,100,Jan 1 2023
+AMA zon,SF,T3ch,-50,2023-01-01
+ AMAZON,,Technology,100,Jan 1 2023
+AMA zon,San Francisco,T3ch,100,Jan 1 2023
+Amazon,NY,Technology,one hundred,2023-01-01
+GOO gle,,Technology,,invalid
+GOO gle,New York,Tech,,01/01/2023
+GOOGLE,New York,Technology,100,2023-01-01
+Amazon,NY,Tech,one hundred,invalid
+amazon,San Francisco,tech,-50,01/01/2023
+Amazon,,Tech,100,01/01/2023
+GOO gle,San Francisco,Tech,100,01/01/2023
+amazon,,Tech,,01/01/2023
+google,San Francisco,Tech,,
+GOO gle,New York,tech,-50,
+AMA zon,new york,,100,01/01/2023
+google,NY,Tech,one hundred,invalid
+amazon,NY,Tech,100,
+Google,San Francisco,Technology,one hundred,
+AMA zon,San Francisco,T3ch,100,Jan 1 2023
+Amazon,,Technology,100,Jan 1 2023
+GOOGLE,new york,tech,100,Jan 1 2023
+GOO gle,new york,,one hundred,01/01/2023
+AMA zon,,tech,one hundred,
+GOOGLE,,Tech,100,
+amazon,new york,,,2023-01-01
+GOO gle,New York,Technology,100,Jan 1 2023
+AMA zon,,,100,2023-01-01
+Google,new york,,one hundred,invalid
+AMA zon,New York,T3ch,-50,Jan 1 2023
+Google,New York,Tech,,Jan 1 2023
+AMA zon,SF,,,01/01/2023
+AMA zon,San Francisco,,-50,
+amazon,San Francisco,Technology,,Jan 1 2023
+ AMAZON,New York,,100,2023-01-01
+AMA zon,NY,,,Jan 1 2023
+Google,NY,,-50,2023-01-01
+amazon,,T3ch,-50,01/01/2023
+Amazon,NY,,100,Jan 1 2023
+amazon,NY,,-50,2023-01-01
+GOO gle,NY,Tech,100,Jan 1 2023
+amazon,New York,T3ch,one hundred,Jan 1 2023
+Google,SF,tech,one hundred,
+google,New York,Technology,100,
+ AMAZON,,Technology,-50,
+amazon,new york,tech,100,01/01/2023
+google,new york,Technology,-50,invalid
+AMA zon,NY,tech,,invalid
+AMA zon,SF,Tech,,01/01/2023
+AMA zon,San Francisco,Technology,-50,invalid
+amazon,San Francisco,,-50,Jan 1 2023
+Amazon,new york,Technology,100,2023-01-01
+GOO gle,New York,tech,100,
+Amazon,,Technology,,2023-01-01
+ AMAZON,SF,Technology,one hundred,01/01/2023
+Amazon,new york,Technology,100,Jan 1 2023
+amazon,new york,,,01/01/2023
+google,San Francisco,tech,,invalid
+Amazon,New York,Tech,-50,Jan 1 2023
+ AMAZON,NY,Technology,,01/01/2023
+Google,,Technology,,Jan 1 2023
+GOO gle,NY,,100,invalid
+AMA zon,new york,,,01/01/2023
+google,NY,Tech,100,invalid
+GOOGLE,SF,,100,
+GOO gle,SF,tech,100,
+Amazon,San Francisco,T3ch,one hundred,01/01/2023
+Google,,Technology,,invalid
+GOOGLE,NY,tech,-50,
+Amazon,New York,,,2023-01-01
+ AMAZON,new york,Technology,one hundred,Jan 1 2023
+google,new york,,100,invalid
+GOO gle,San Francisco,,one hundred,01/01/2023
+ AMAZON,,,100,Jan 1 2023
+Google,new york,Tech,one hundred,2023-01-01
+ AMAZON,new york,T3ch,-50,01/01/2023
+AMA zon,new york,tech,100,Jan 1 2023
+GOOGLE,New York,Tech,-50,2023-01-01
+ AMAZON,New York,T3ch,,
+google,NY,T3ch,one hundred,2023-01-01
+amazon,San Francisco,tech,,invalid
+Google,SF,tech,,2023-01-01
+Amazon,new york,Technology,100,Jan 1 2023
+AMA zon,San Francisco,Tech,100,invalid
+google,NY,Tech,-50,invalid
+Amazon,NY,Technology,one hundred,invalid
+GOOGLE,San Francisco,Tech,one hundred,01/01/2023
+amazon,,tech,one hundred,01/01/2023
+Amazon,San Francisco,Tech,one hundred,invalid
+GOO gle,NY,Tech,100,2023-01-01
+google,New York,,,
+AMA zon,New York,Tech,100,invalid
+GOO gle,NY,T3ch,100,01/01/2023
+AMA zon,,Tech,100,
+google,SF,Tech,one hundred,2023-01-01
+GOOGLE,New York,Technology,-50,Jan 1 2023
+ AMAZON,NY,Tech,-50,Jan 1 2023
+google,NY,,100,01/01/2023
+GOOGLE,,T3ch,one hundred,
+ AMAZON,new york,Tech,-50,Jan 1 2023
+AMA zon,San Francisco,,,01/01/2023
+ AMAZON,New York,,,01/01/2023
+ AMAZON,San Francisco,,100,invalid
+GOO gle,New York,,,invalid
+AMA zon,NY,,,2023-01-01
+amazon,,T3ch,one hundred,
+GOOGLE,SF,,one hundred,2023-01-01
+GOO gle,NY,,,01/01/2023
+google,new york,T3ch,,2023-01-01
+GOO gle,NY,tech,-50,
+GOO gle,SF,tech,100,
+AMA zon,San Francisco,,-50,2023-01-01
+Google,,Tech,,invalid
+Amazon,NY,Technology,one hundred,Jan 1 2023
+Google,NY,Tech,one hundred,
+google,San Francisco,Technology,one hundred,2023-01-01
+GOO gle,,,100,invalid
+Amazon,NY,Tech,,Jan 1 2023
+ AMAZON,,,,01/01/2023
+GOO gle,SF,,100,01/01/2023
+Google,NY,,one hundred,
+AMA zon,SF,T3ch,,2023-01-01
+GOOGLE,NY,T3ch,100,01/01/2023
+GOOGLE,new york,,100,invalid
+Amazon,new york,Technology,,01/01/2023
+amazon,SF,,one hundred,invalid
+AMA zon,SF,,100,
+GOO gle,New York,T3ch,one hundred,
+AMA zon,San Francisco,T3ch,100,01/01/2023
+GOOGLE,NY,,one hundred,2023-01-01
+google,San Francisco,,100,01/01/2023
+GOOGLE,SF,T3ch,100,01/01/2023
+AMA zon,SF,tech,-50,01/01/2023
+Google,New York,Technology,,01/01/2023
+GOO gle,NY,,100,2023-01-01
+Google,New York,,100,2023-01-01
+GOOGLE,new york,T3ch,100,invalid
+GOO gle,NY,,one hundred,
+AMA zon,San Francisco,T3ch,100,Jan 1 2023
+Google,New York,tech,100,invalid
+Amazon,NY,,one hundred,invalid
+amazon,New York,Tech,one hundred,Jan 1 2023
+ AMAZON,SF,,100,
+GOO gle,NY,Tech,-50,01/01/2023
+google,New York,T3ch,one hundred,invalid
+ AMAZON,New York,T3ch,-50,invalid
+Amazon,SF,,-50,2023-01-01
+GOOGLE,new york,,,
+Amazon,SF,T3ch,100,2023-01-01
+AMA zon,new york,,-50,01/01/2023
+ AMAZON,new york,Technology,-50,Jan 1 2023
+google,,tech,-50,Jan 1 2023
+google,NY,Tech,100,2023-01-01
+google,San Francisco,tech,100,invalid
+google,NY,T3ch,100,01/01/2023
+Amazon,SF,Tech,-50,invalid
+AMA zon,,Tech,,Jan 1 2023
+GOO gle,San Francisco,Tech,one hundred,01/01/2023
+GOOGLE,NY,,100,
+GOOGLE,NY,Technology,one hundred,
+GOO gle,New York,,100,
+google,new york,,100,Jan 1 2023
+GOOGLE,,tech,-50,01/01/2023
+ AMAZON,new york,Tech,100,invalid
+amazon,,T3ch,one hundred,01/01/2023
+amazon,SF,,-50,Jan 1 2023
+google,new york,Technology,,01/01/2023
+GOOGLE,new york,,one hundred,2023-01-01
+GOO gle,New York,,100,Jan 1 2023
+ AMAZON,San Francisco,Tech,100,01/01/2023
+AMA zon,NY,,-50,2023-01-01
+amazon,new york,,,Jan 1 2023
+ AMAZON,SF,T3ch,one hundred,Jan 1 2023
+GOOGLE,New York,,one hundred,invalid
+GOO gle,New York,T3ch,100,01/01/2023
+GOO gle,SF,T3ch,100,Jan 1 2023
+ AMAZON,NY,Tech,100,2023-01-01
+ AMAZON,,Tech,100,2023-01-01
+google,San Francisco,,100,01/01/2023
+Google,NY,Technology,100,
+GOOGLE,New York,tech,100,Jan 1 2023
+google,new york,T3ch,100,invalid
+Amazon,,T3ch,,invalid
+AMA zon,NY,,100,
+amazon,New York,Technology,-50,
+ AMAZON,NY,,100,01/01/2023
+amazon,New York,Tech,100,2023-01-01
+AMA zon,SF,tech,one hundred,01/01/2023
+GOOGLE,New York,T3ch,100,invalid
+ AMAZON,,tech,100,2023-01-01
+amazon,San Francisco,Technology,100,2023-01-01
+GOO gle,New York,,-50,01/01/2023
+Amazon,NY,tech,100,01/01/2023
+AMA zon,NY,Tech,one hundred,invalid
+AMA zon,new york,T3ch,100,Jan 1 2023
+Amazon,,,100,invalid
+GOOGLE,SF,,,2023-01-01
+Google,New York,tech,100,01/01/2023
+ AMAZON,new york,,100,2023-01-01
+GOO gle,SF,,,Jan 1 2023
+amazon,SF,,-50,Jan 1 2023
+Google,,Technology,100,
+google,,Tech,-50,01/01/2023
+GOO gle,New York,tech,-50,
+google,new york,,100,
+ AMAZON,,Tech,100,Jan 1 2023
+AMA zon,NY,Technology,100,01/01/2023
+Amazon,new york,T3ch,,2023-01-01
+GOO gle,San Francisco,,-50,01/01/2023
+AMA zon,,Technology,100,invalid
+google,new york,Tech,-50,invalid
+amazon,San Francisco,Technology,100,01/01/2023
+Google,NY,Tech,one hundred,invalid
+Amazon,new york,,,Jan 1 2023
+Google,San Francisco,Tech,-50,invalid
+amazon,SF,Technology,,invalid
+GOOGLE,new york,Technology,one hundred,Jan 1 2023
+Amazon,NY,Tech,-50,
+GOOGLE,,Tech,100,invalid
+AMA zon,New York,Tech,100,2023-01-01
+Google,NY,Tech,100,
+GOOGLE,New York,,,Jan 1 2023
+GOO gle,New York,,100,invalid
+ AMAZON,,Tech,one hundred,
+AMA zon,,tech,100,2023-01-01
+GOO gle,new york,,100,
+GOOGLE,NY,tech,-50,2023-01-01
+amazon,SF,,100,invalid
+google,SF,Tech,100,
+GOOGLE,New York,,-50,01/01/2023
+ AMAZON,New York,Tech,,Jan 1 2023
+GOO gle,SF,tech,100,
+ AMAZON,San Francisco,,100,Jan 1 2023
+GOOGLE,new york,,-50,2023-01-01
+amazon,,T3ch,-50,
+amazon,SF,Tech,100,Jan 1 2023
+Google,New York,,one hundred,2023-01-01
+ AMAZON,NY,Tech,100,Jan 1 2023
+GOOGLE,San Francisco,T3ch,100,01/01/2023
+GOO gle,NY,,,Jan 1 2023
+google,,,100,2023-01-01
+amazon,SF,T3ch,100,invalid
+GOO gle,New York,Technology,100,Jan 1 2023
+AMA zon,San Francisco,T3ch,-50,invalid
+GOO gle,SF,T3ch,-50,2023-01-01
+ AMAZON,SF,T3ch,100,2023-01-01
+amazon,new york,Technology,,Jan 1 2023
+amazon,,tech,-50,
+amazon,San Francisco,,100,Jan 1 2023
+ AMAZON,NY,,-50,invalid
+GOO gle,,Tech,-50,invalid
+GOO gle,SF,,100,01/01/2023
+ AMAZON,New York,,100,
+Google,NY,tech,100,Jan 1 2023
+google,new york,,,invalid
+GOOGLE,,T3ch,100,01/01/2023
+amazon,NY,,one hundred,01/01/2023
+google,SF,,100,invalid
+Amazon,SF,,100,
+Google,SF,,100,
+google,new york,Tech,-50,invalid
+ AMAZON,,,100,01/01/2023
+Google,NY,Tech,100,invalid
+AMA zon,New York,,one hundred,01/01/2023
+GOOGLE,San Francisco,,,2023-01-01
+amazon,SF,,100,Jan 1 2023
+Google,new york,,100,01/01/2023
+AMA zon,new york,,one hundred,01/01/2023
+AMA zon,San Francisco,,100,invalid
+GOOGLE,New York,,100,invalid
+Google,San Francisco,Tech,one hundred,2023-01-01
+Google,San Francisco,,,invalid
+GOOGLE,,Technology,,2023-01-01
+GOOGLE,New York,,100,
+amazon,new york,,100,2023-01-01
+Amazon,,Tech,,01/01/2023
+google,New York,T3ch,one hundred,invalid
+google,New York,,-50,2023-01-01
+amazon,new york,Tech,100,01/01/2023
+Google,NY,T3ch,one hundred,01/01/2023
+Amazon,San Francisco,,100,2023-01-01
+google,,tech,100,invalid
+amazon,,T3ch,100,2023-01-01
+amazon,New York,,100,
+amazon,NY,Technology,-50,
+Amazon,,tech,100,invalid
+Amazon,,Technology,100,invalid
+google,NY,Technology,100,2023-01-01
+amazon,,,-50,invalid
+AMA zon,NY,,one hundred,01/01/2023
+GOO gle,New York,Tech,one hundred,invalid
+Google,,,100,01/01/2023
+amazon,new york,Tech,-50,
+GOOGLE,,,,
+google,new york,,one hundred,01/01/2023
+google,SF,,100,Jan 1 2023
+google,San Francisco,,100,01/01/2023
+Google,new york,Tech,100,
+GOOGLE,new york,,100,2023-01-01
+amazon,SF,Tech,100,Jan 1 2023
+amazon,new york,Tech,-50,Jan 1 2023
+google,,Tech,,01/01/2023
+Google,NY,Tech,100,Jan 1 2023
+ AMAZON,NY,Tech,100,01/01/2023
+GOOGLE,,tech,one hundred,
+Google,SF,Tech,100,2023-01-01
+ AMAZON,,,one hundred,2023-01-01
+AMA zon,new york,,100,invalid
+amazon,new york,tech,100,Jan 1 2023
+AMA zon,San Francisco,tech,100,2023-01-01
+amazon,NY,Technology,,01/01/2023
+GOO gle,,tech,,
+AMA zon,new york,,-50,Jan 1 2023
+AMA zon,San Francisco,Tech,100,Jan 1 2023
+google,,T3ch,-50,invalid
+GOO gle,,,100,01/01/2023
+Google,NY,,one hundred,Jan 1 2023
+Google,New York,tech,100,2023-01-01
+google,NY,,100,invalid
+ AMAZON,new york,,-50,
+google,new york,,,invalid
+google,new york,T3ch,one hundred,2023-01-01
+GOO gle,NY,,100,01/01/2023
+GOO gle,,tech,100,2023-01-01
+amazon,,tech,100,Jan 1 2023
+GOO gle,new york,Technology,,Jan 1 2023
+AMA zon,New York,,,
+Amazon,SF,Technology,100,invalid
+GOO gle,SF,tech,,2023-01-01
+google,SF,tech,one hundred,Jan 1 2023
+GOO gle,San Francisco,tech,100,
+Google,NY,,100,01/01/2023
+GOOGLE,SF,Technology,100,invalid
+Google,,Tech,100,01/01/2023
+amazon,New York,Technology,one hundred,01/01/2023
+GOO gle,,,100,01/01/2023
+AMA zon,New York,Technology,-50,01/01/2023
+AMA zon,new york,,100,invalid
+GOO gle,New York,,100,2023-01-01
+Google,,Tech,-50,Jan 1 2023
+Google,NY,Tech,one hundred,2023-01-01
+AMA zon,NY,Technology,100,2023-01-01
+GOOGLE,NY,,100,2023-01-01
+AMA zon,,tech,one hundred,
+Google,new york,tech,,invalid
+google,,T3ch,100,01/01/2023
+GOO gle,SF,,100,2023-01-01
+amazon,New York,Tech,100,01/01/2023
+ AMAZON,New York,Technology,one hundred,2023-01-01
+Google,,,100,01/01/2023
+AMA zon,New York,Technology,100,
+Amazon,San Francisco,,,
+google,New York,Tech,-50,
+Google,new york,,,
+amazon,New York,,100,Jan 1 2023
+GOO gle,New York,tech,,01/01/2023
+ AMAZON,SF,Technology,-50,invalid
+google,,Tech,100,2023-01-01
+ AMAZON,New York,,-50,
+Google,NY,,100,invalid
+AMA zon,New York,Technology,one hundred,01/01/2023
+ AMAZON,,,-50,2023-01-01
+GOOGLE,New York,,100,
+GOO gle,,Tech,100,Jan 1 2023
+GOO gle,San Francisco,,-50,Jan 1 2023
+Amazon,new york,,,2023-01-01
+amazon,San Francisco,,100,2023-01-01
+GOOGLE,NY,Technology,100,
+GOO gle,New York,Tech,one hundred,
+google,San Francisco,Technology,one hundred,01/01/2023
+Amazon,San Francisco,T3ch,100,01/01/2023
+ AMAZON,San Francisco,tech,one hundred,
+GOOGLE,SF,Tech,-50,Jan 1 2023
+GOOGLE,NY,T3ch,-50,2023-01-01
+google,NY,Technology,100,invalid
+Google,NY,T3ch,100,
+ AMAZON,San Francisco,Tech,,Jan 1 2023
+amazon,,Tech,,
+GOOGLE,New York,T3ch,,2023-01-01
+GOO gle,New York,,100,invalid
+Google,,,,
+Google,SF,,100,2023-01-01
+GOO gle,SF,,100,Jan 1 2023
+AMA zon,New York,Technology,100,Jan 1 2023
+Amazon,new york,,100,
+ AMAZON,San Francisco,,100,2023-01-01
+Amazon,,T3ch,-50,Jan 1 2023
+GOOGLE,,,,
+AMA zon,San Francisco,,-50,Jan 1 2023
+GOO gle,San Francisco,tech,,01/01/2023
+Google,,Technology,-50,
+ AMAZON,NY,tech,100,2023-01-01
+AMA zon,San Francisco,,100,01/01/2023
+GOO gle,,,100,invalid
+Amazon,NY,tech,100,Jan 1 2023
+AMA zon,San Francisco,tech,100,Jan 1 2023
+GOOGLE,SF,Tech,,
+ AMAZON,NY,T3ch,,
+GOO gle,New York,tech,-50,2023-01-01
+ AMAZON,SF,Technology,-50,
+google,San Francisco,Tech,,invalid
+amazon,NY,Technology,-50,Jan 1 2023
+Amazon,NY,tech,-50,2023-01-01
+amazon,San Francisco,,one hundred,
+ AMAZON,San Francisco,,100,
+amazon,New York,tech,,2023-01-01
+GOO gle,NY,,,2023-01-01
+ AMAZON,NY,Technology,one hundred,01/01/2023
+GOOGLE,SF,T3ch,100,Jan 1 2023
+GOO gle,SF,,100,2023-01-01
+AMA zon,,T3ch,100,invalid
+Google,,tech,one hundred,invalid
+AMA zon,NY,Tech,one hundred,invalid
+ AMAZON,SF,tech,100,01/01/2023
+GOO gle,New York,,100,
+Amazon,SF,Technology,100,Jan 1 2023
+ AMAZON,San Francisco,tech,one hundred,
+google,SF,Technology,one hundred,2023-01-01
+GOOGLE,new york,,-50,invalid
+google,NY,,-50,
+GOOGLE,NY,,one hundred,01/01/2023
+Amazon,San Francisco,tech,100,invalid
+google,new york,,100,Jan 1 2023
+Google,new york,Tech,one hundred,invalid
+amazon,new york,T3ch,-50,01/01/2023
+amazon,new york,tech,100,01/01/2023
+GOO gle,new york,T3ch,-50,2023-01-01
+amazon,,Tech,100,Jan 1 2023
+GOO gle,NY,T3ch,100,invalid
+google,New York,Technology,-50,01/01/2023
+google,,tech,,2023-01-01
+AMA zon,,tech,100,invalid
+google,,,100,2023-01-01
+GOOGLE,NY,,100,invalid
+google,new york,,-50,invalid
+Google,New York,tech,100,
+Google,NY,,one hundred,01/01/2023
+Amazon,NY,Technology,100,
+amazon,New York,Tech,one hundred,
+GOO gle,new york,Technology,-50,
+GOOGLE,NY,Technology,,2023-01-01
+AMA zon,new york,,100,Jan 1 2023
+ AMAZON,New York,T3ch,-50,01/01/2023
+Amazon,NY,Technology,one hundred,01/01/2023
+GOOGLE,NY,,,Jan 1 2023
+GOO gle,SF,Tech,-50,invalid
+GOOGLE,SF,,,01/01/2023
+google,San Francisco,,-50,invalid
+Amazon,San Francisco,,one hundred,01/01/2023
+GOOGLE,San Francisco,T3ch,100,01/01/2023
+ AMAZON,new york,,,Jan 1 2023
+amazon,New York,Technology,one hundred,2023-01-01
+GOO gle,SF,,100,Jan 1 2023
+Amazon,,tech,one hundred,01/01/2023
+GOOGLE,new york,Technology,one hundred,Jan 1 2023
+ AMAZON,new york,Technology,,2023-01-01
+Google,NY,Technology,,invalid
+AMA zon,new york,,,Jan 1 2023
+GOO gle,San Francisco,,100,invalid
+GOO gle,new york,Tech,,01/01/2023
+ AMAZON,,,100,
+Amazon,New York,T3ch,one hundred,invalid
+GOO gle,SF,,100,01/01/2023
+ AMAZON,New York,Technology,100,2023-01-01
+ AMAZON,,,-50,Jan 1 2023
+ AMAZON,San Francisco,Tech,100,
+GOOGLE,New York,Technology,100,invalid
+Google,SF,tech,one hundred,01/01/2023
+Google,San Francisco,T3ch,100,Jan 1 2023
+amazon,San Francisco,,-50,01/01/2023
+GOO gle,,,one hundred,01/01/2023
+Google,San Francisco,T3ch,one hundred,invalid
+google,San Francisco,,100,invalid
+google,San Francisco,Technology,,2023-01-01
+Google,new york,Technology,-50,2023-01-01
+GOOGLE,New York,T3ch,100,2023-01-01
+amazon,San Francisco,tech,100,01/01/2023
+google,NY,tech,one hundred,01/01/2023
+AMA zon,NY,,,invalid
+Google,NY,,,2023-01-01
+GOOGLE,San Francisco,tech,100,Jan 1 2023
+GOO gle,SF,Tech,100,
+amazon,SF,Tech,one hundred,
+google,NY,,,
+GOO gle,NY,Technology,100,2023-01-01
+AMA zon,SF,Tech,,2023-01-01
+ AMAZON,new york,,one hundred,2023-01-01
+Amazon,New York,T3ch,,Jan 1 2023
+google,new york,,,invalid
+GOOGLE,NY,,,2023-01-01
+Google,SF,T3ch,100,
+Google,NY,,-50,01/01/2023
+amazon,new york,tech,-50,
+amazon,new york,,100,
+GOO gle,,,-50,
+Amazon,new york,Technology,100,2023-01-01
+GOOGLE,SF,,100,01/01/2023
+amazon,NY,,-50,
+amazon,SF,Tech,one hundred,Jan 1 2023
+amazon,NY,T3ch,-50,01/01/2023
+amazon,,,one hundred,2023-01-01
+Amazon,SF,Tech,,2023-01-01
+GOO gle,SF,T3ch,100,2023-01-01
+GOOGLE,SF,Tech,,2023-01-01
+Amazon,NY,Tech,100,2023-01-01
+google,New York,,100,
+GOOGLE,new york,,100,Jan 1 2023
+AMA zon,San Francisco,tech,,invalid
+google,new york,Technology,-50,01/01/2023
+GOO gle,New York,Technology,,2023-01-01
+Google,San Francisco,T3ch,100,Jan 1 2023
+GOOGLE,new york,Tech,one hundred,Jan 1 2023
+amazon,San Francisco,,-50,01/01/2023
+GOO gle,New York,tech,,invalid
+Amazon,new york,T3ch,,invalid
+amazon,NY,T3ch,100,2023-01-01
+Amazon,,T3ch,100,Jan 1 2023
+google,,tech,,01/01/2023
+ AMAZON,San Francisco,Technology,-50,
+ AMAZON,SF,,,invalid
+ AMAZON,,Technology,-50,01/01/2023
+GOOGLE,San Francisco,,100,Jan 1 2023
+AMA zon,San Francisco,tech,-50,invalid
+ AMAZON,,Technology,one hundred,Jan 1 2023
+AMA zon,New York,Tech,100,Jan 1 2023
+google,new york,Tech,-50,2023-01-01
+GOO gle,New York,Tech,-50,
+AMA zon,new york,,100,
+AMA zon,new york,,,01/01/2023
+GOOGLE,,T3ch,one hundred,01/01/2023
+Amazon,San Francisco,,100,01/01/2023
+amazon,SF,tech,-50,invalid
+Google,NY,T3ch,100,2023-01-01
+Google,San Francisco,T3ch,-50,2023-01-01
+Amazon,,tech,100,01/01/2023
+GOO gle,New York,tech,100,
+google,San Francisco,T3ch,one hundred,invalid
+AMA zon,San Francisco,T3ch,one hundred,invalid
+amazon,SF,Tech,100,Jan 1 2023
+GOO gle,SF,T3ch,-50,
+amazon,,T3ch,100,2023-01-01
+Google,new york,Technology,100,2023-01-01
+AMA zon,,Technology,100,2023-01-01
+ AMAZON,,tech,one hundred,2023-01-01
+GOOGLE,San Francisco,,100,
+Amazon,,tech,one hundred,2023-01-01
+GOOGLE,new york,Tech,one hundred,Jan 1 2023
+AMA zon,SF,tech,,invalid
+AMA zon,SF,tech,100,
+amazon,San Francisco,,one hundred,01/01/2023
+GOOGLE,new york,tech,one hundred,01/01/2023
+GOO gle,New York,,100,Jan 1 2023
+amazon,SF,Technology,one hundred,01/01/2023
+GOOGLE,New York,T3ch,one hundred,invalid
+google,NY,Technology,-50,2023-01-01
+amazon,new york,,,
+Amazon,New York,,100,2023-01-01
+Google,new york,tech,,invalid
+ AMAZON,SF,Technology,-50,
+AMA zon,,Tech,,Jan 1 2023
+ AMAZON,San Francisco,T3ch,100,Jan 1 2023
+amazon,new york,tech,100,
+Google,SF,Technology,100,invalid
+GOO gle,NY,,,2023-01-01
+ AMAZON,,T3ch,100,01/01/2023
+GOO gle,San Francisco,T3ch,100,Jan 1 2023
+GOO gle,San Francisco,T3ch,,2023-01-01
+amazon,San Francisco,,,
+GOO gle,SF,Tech,one hundred,01/01/2023
+amazon,New York,tech,one hundred,2023-01-01
+GOO gle,NY,,,invalid
+GOOGLE,new york,,-50,
+amazon,SF,Technology,100,Jan 1 2023
+Google,San Francisco,tech,-50,
+GOOGLE,new york,Technology,100,
+ AMAZON,SF,,,2023-01-01
+ AMAZON,,tech,-50,01/01/2023
+Google,SF,,-50,2023-01-01
+ AMAZON,New York,,100,
+AMA zon,new york,Tech,100,2023-01-01
+GOOGLE,New York,T3ch,one hundred,invalid
+GOO gle,New York,T3ch,one hundred,01/01/2023
+AMA zon,new york,tech,100,
+AMA zon,SF,tech,-50,invalid
+ AMAZON,New York,tech,-50,invalid
+GOO gle,New York,tech,,
+AMA zon,San Francisco,,-50,2023-01-01
+AMA zon,,Tech,-50,2023-01-01
+GOO gle,NY,,100,invalid
+ AMAZON,San Francisco,Technology,one hundred,invalid
+google,NY,,,invalid
+Google,SF,Tech,one hundred,2023-01-01
+GOO gle,San Francisco,tech,one hundred,
+AMA zon,SF,,100,2023-01-01
+amazon,SF,tech,one hundred,2023-01-01
+GOOGLE,new york,,-50,01/01/2023
+Google,San Francisco,,-50,Jan 1 2023
+amazon,San Francisco,,100,01/01/2023
+AMA zon,San Francisco,,100,
+Amazon,NY,,100,01/01/2023
+GOO gle,NY,Tech,,01/01/2023
+ AMAZON,San Francisco,Technology,100,2023-01-01
+AMA zon,NY,,100,01/01/2023
+GOO gle,NY,Technology,100,Jan 1 2023
+GOOGLE,SF,T3ch,100,2023-01-01
+GOOGLE,new york,Tech,-50,invalid
+Amazon,new york,T3ch,one hundred,01/01/2023
+AMA zon,SF,,,01/01/2023
+Amazon,new york,Tech,100,01/01/2023
+amazon,SF,tech,one hundred,01/01/2023
+Google,,,100,Jan 1 2023
+AMA zon,,,,01/01/2023
+GOO gle,new york,T3ch,,01/01/2023
+Google,,Technology,-50,2023-01-01
+GOO gle,,T3ch,100,2023-01-01
+Amazon,NY,,,2023-01-01
+Google,SF,,100,invalid
+Google,SF,Technology,one hundred,Jan 1 2023
+ AMAZON,New York,Technology,one hundred,2023-01-01
+google,,tech,100,Jan 1 2023
+Amazon,New York,T3ch,,invalid
+Google,new york,Tech,one hundred,Jan 1 2023
+GOO gle,SF,Technology,one hundred,01/01/2023
+Amazon,new york,,100,2023-01-01
+AMA zon,San Francisco,,100,Jan 1 2023
+Amazon,new york,Technology,-50,Jan 1 2023
+google,SF,,100,
+Google,San Francisco,Technology,,
+Google,new york,Tech,100,01/01/2023
+GOO gle,new york,,-50,invalid
+GOOGLE,,tech,100,2023-01-01
+AMA zon,San Francisco,,-50,01/01/2023
+AMA zon,San Francisco,Technology,one hundred,2023-01-01
+GOOGLE,,T3ch,one hundred,2023-01-01
+GOOGLE,NY,,one hundred,01/01/2023
+GOO gle,New York,Tech,100,Jan 1 2023
+GOO gle,New York,Tech,one hundred,2023-01-01
+AMA zon,,,-50,
+Google,,,,01/01/2023
+AMA zon,SF,Tech,one hundred,invalid
+GOOGLE,,T3ch,,2023-01-01
+AMA zon,new york,tech,one hundred,
+Amazon,San Francisco,,,invalid
+GOOGLE,new york,,100,Jan 1 2023
+amazon,New York,,one hundred,01/01/2023
+google,,Technology,,Jan 1 2023
+GOO gle,New York,,,01/01/2023
+ AMAZON,NY,,100,01/01/2023
+google,NY,tech,,Jan 1 2023
+GOOGLE,NY,,-50,Jan 1 2023
+AMA zon,New York,,,01/01/2023
+ AMAZON,NY,,-50,
+amazon,new york,tech,100,Jan 1 2023
+amazon,SF,,-50,01/01/2023
+Amazon,NY,,100,2023-01-01
+Google,New York,,100,Jan 1 2023
+ AMAZON,San Francisco,T3ch,100,2023-01-01
+AMA zon,New York,,100,2023-01-01
+ AMAZON,New York,Tech,100,2023-01-01
+google,SF,,one hundred,01/01/2023
+AMA zon,New York,Tech,100,invalid
+AMA zon,,,one hundred,2023-01-01
+Google,New York,T3ch,,
+ AMAZON,new york,,-50,
+Amazon,new york,Technology,100,invalid
+Amazon,NY,T3ch,100,invalid
+google,new york,Tech,100,2023-01-01
+AMA zon,SF,,-50,invalid
+google,NY,tech,100,Jan 1 2023
+GOOGLE,New York,,100,01/01/2023
+google,new york,Technology,-50,
+GOO gle,New York,,-50,
+AMA zon,NY,,one hundred,Jan 1 2023
+GOO gle,NY,T3ch,100,01/01/2023
+GOOGLE,,Technology,one hundred,invalid
+google,San Francisco,tech,100,Jan 1 2023
+google,,,100,Jan 1 2023
+amazon,new york,tech,100,01/01/2023
+google,San Francisco,Technology,-50,01/01/2023
+google,new york,,100,2023-01-01
+GOO gle,NY,,,
+amazon,San Francisco,,,2023-01-01
+AMA zon,,T3ch,one hundred,2023-01-01
+AMA zon,SF,,,2023-01-01
+amazon,new york,,100,invalid
+GOO gle,NY,Tech,100,2023-01-01
+AMA zon,NY,,,invalid
+google,NY,,,Jan 1 2023
+Google,New York,T3ch,-50,01/01/2023
+amazon,,,,
+AMA zon,NY,Tech,one hundred,2023-01-01
+Google,New York,,100,Jan 1 2023
+Amazon,San Francisco,,,invalid
+Google,San Francisco,T3ch,,
+GOO gle,New York,,100,2023-01-01
+GOOGLE,new york,tech,,Jan 1 2023
+GOO gle,San Francisco,Tech,100,01/01/2023
